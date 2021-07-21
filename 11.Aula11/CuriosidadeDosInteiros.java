@@ -6,3 +6,4 @@ public class CuriosidadeDosInteiros {
         System.out.println(var1 + var2);
         //roleta que retorna o menor número
 }
+}
