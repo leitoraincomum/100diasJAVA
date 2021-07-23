@@ -25,9 +25,9 @@ public class LeituraDadosTeclado {
         System.out.println("Digite seu primeiro nome, idade, altura quantidade de filhos e se tem bichinho de estimação: ");
         String primeiroNome = scan.next();
         int idade = scan.nextInt();
-        byte qtdFilhos = scan.nextByte();
-//        float altura = scan.nextFloat();
+//      float altura = scan.nextFloat();
         double altura = scan.nextDouble();
+        byte qtdFilhos = scan.nextByte();
         boolean temPet = scan.nextBoolean();
 
         System.out.println("Você digitou os seguintes valores");

@@ -16,7 +16,7 @@
 
 ```9. Faça um Programa que peça a temperatura em graus Fahrenheit, transforme e mostre a temperatura em graus Celsius. C = 5 * ((F-32) / 9).```
 
-```10. Faça um Programa que peça a temperatura em graus Celsius, transforme e mostre em graus Fahrenheit. ```
+```10. Faça um Programa que peça a temperatura em graus Celsius, transforme e mostre em graus Fahrenheit.```
 
 ```
 11. Faça um Programa que peça 2 números inteiros e um número real. Calcule e mostre:
@@ -62,3 +62,4 @@ Informe ao usuário as quantidades de tinta a serem compradas e os respectivos p
 
 ```18. Faça um programa que peça o tamanho de um arquivo para download (em MB) e a velocidade de um link de Internet (em Mbps), calcule e informe o tempo aproximado de download do arquivo usando este link (em minutos). ```
 
+[Fonte](https://wiki.python.org.br/EstruturaSequencial)
