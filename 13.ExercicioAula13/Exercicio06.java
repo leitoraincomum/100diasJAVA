@@ -12,7 +12,7 @@ public class Exercicio06 {
 
          area = 3.1415 * raio * raio;
 
-         System.out.println("O valor da area eh: " + area);
+         System.out.println("O valor da area do circulo eh: " + area);
     }
     
 }
