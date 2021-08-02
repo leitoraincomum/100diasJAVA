@@ -46,7 +46,7 @@ c) a média dos elementos armazenados no vetor que são superiores a 15.
 A[i] = cotação do dolar * i, para todo i variando de 1 até 20.
 ```
 
-```21. Gerar aleatoriamente um vetor A com 10 elementos inteiros e iguais a 0 e 1, sugestão: A[i] = (int)Math.round(Math.random() * 1); Pede-se para implementar um programa que determine o percentual de números 0's e 1's existentes no vetor A.
+```21. Gerar aleatoriamente um vetor A com 10 elementos inteiros e iguais a 0 e 1, sugestão: A[i] = (int)Math.round(Math.random() * 1); Pede-se para implementar um programa que determine o percentual de números 0's e 1's existentes no vetor A.```
 
 ```23. Criar um vetor A com 10 elementos inteiros. Desenvolver um programa que verifique se "todos" os elementos do vetor A são pares. Se pelo menos um elemento do vetor não for par o processo de repetição para percorrer os elementos do vetor deve ser encerrado, como sugestão: utilize uma variável do tipo flag para atingir este propósito.```
 
