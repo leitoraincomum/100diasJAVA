@@ -1,3 +1,4 @@
+## Lista de Exercícios
 ```01. Criar um vetor A com 5 elementos inteiros. Construir um vetor B de mesmo tipo e tamanho e com os "mesmos" elementos do vetor A, ou seja, B[i] = A[i].```
 
 ```02. Criar um vetor A com 8 elementos inteiros. Construir um vetor B de mesmo tipo e tamanho e com os elementos do vetor A multiplicados por 2, ou seja: B[i] = A[i] * 2.```
@@ -17,6 +18,8 @@
 ```09. Criar dois vetores A e B cada um com 10 elementos inteiros. Construir um vetor C, onde cada elemento de C é a divisão dos respectivos elementos em A e B, ou seja: C[i] = A[i] / float(B[i]).```
 
 ```10. Criar um vetor A com 10 elementos inteiros. Construir um vetor B de mesmo tipo e tamanho, sendo que cada elemento do vetor B deverá ser o resto da divisão do respectivo elemento de A por 2 (dois), ou seja: B[i] := A[i] % 2.```
+
+## Para resolver ainda
 
 ```11. Criar um vetor A com 10 elementos inteiros. Implementar um programa que defina e escreva a quantidade de elementos armazenados neste vetor que são pares.```
 
@@ -90,3 +93,5 @@ e) Bi deverá receber 'e' quando Ai for maior que 10. Sugestão: char B[10];
 ```36. Criar um vetor A com 11 elementos, indexados de 0 até 10. Sendo que cada elemento do vetor A é formado pela potência de base 2 elevado ao expoente igual a posição do respectivo elemento, ou seja: A[i] = 2i. Sugestão int A[11];```
 
 ```37. Criar um vetor A com 15 elementos inteiros. Construir um vetor B de mesmo tamanho, sendo que cada elemento do vetor B seja o fatorial do elemento correspondente em A.```
+
+[Fonte](http://acesso.materdei.edu.br/omero/Java/Fontes/Lista%20Vetores/Lista%20Vetores.HTM)
