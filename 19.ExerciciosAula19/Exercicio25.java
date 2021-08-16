@@ -7,5 +7,26 @@ public class Exercicio25{
          * a) Bi deverá receber 1 quando Ai for par; 
          * b) Bi deverá receber 0 quando Ai for ímpar. */
         Scanner scan = new Scanner(System.in);
+        int vetA[] = new int[10], vetB[] = new int[10];
+
+        System.out.println("**Vetor B recebe 1 se par e 0 se impar em Vetor A **");
+        for (int i = 0; i < vetA.length; i++){
+            System.out.print(" Digite o valor da posicao " + (i + 1) + " do vetor: ");
+            vetA[i] =  scan.nextInt();
+            if (vetA[i] % 2 == 0){
+                vetB[i] =  1;
+            }else{
+                vetB[i] = 0;
+            }
+        }
+
+        System.out.println("\nElementos do vetor A: ");
+        for (int i = 0; i < vetA.length; i++){
+            System.out.print(vetA[i] + " ");
+        }
+        System.out.println("\nElementos do vetor B: ");
+        for (int i = 0; i < vetB.length; i++){
+            System.out.print(vetB[i] + " ");
+        }
     }
 }

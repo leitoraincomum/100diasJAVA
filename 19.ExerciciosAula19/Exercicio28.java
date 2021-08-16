@@ -7,5 +7,22 @@ public class Exercicio28{
          * elemento de A passa a ser o último de B, o segundo elemento de A 
          * passa a ser o penúltimo de B e assim por diante. */
         Scanner scan = new Scanner(System.in);
+        int vetA[] = new int[10], vetB[] = new int[vetA.length];
+        System.out.println("** Vetor B recebe Vetor A ao contrario **");
+
+        for (int i = 0; i < vetA.length; i++) {
+            System.out.print("Digite a posicao " + (i + 1) + " do vetor A: ");
+            vetA[i] = scan.nextInt();
+            vetB[vetB.length - i - 1] = vetA[i];
+        }
+
+        System.out.println("\nElementos do vetor A: ");
+        for (int i = 0; i < vetA.length; i++){
+            System.out.print(vetA[i] + " ");
+        }
+        System.out.println("\nElementos do vetor B: ");
+        for (int i = 0; i < vetB.length; i++){
+            System.out.print(vetB[i] + " ");
+        }
     }
 }

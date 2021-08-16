@@ -8,5 +8,22 @@ public class Exercicio23{
          * encerrado, como sugestão: utilize uma variável do tipo flag para atingir 
          * este propósito. */
         Scanner scan = new Scanner(System.in);
+        int[] vetorA = new int[10];
+        boolean par = true;
+        int i = 0;
+
+        System.out.println("** Parar se não for par **");
+
+        do {            
+            System.out.print("Entre com um numero para a posicao " + (i + 1) + "o : ");
+            vetorA[i] = scan.nextInt();
+        
+            if (vetorA[i] % 2 != 0){
+            par = false;
+            System.out.println("Numero impar. Programa encerrado!!");
+            }
+            i++;            
+        }while(par == true && i < vetorA.length); 
+            
     }
 }

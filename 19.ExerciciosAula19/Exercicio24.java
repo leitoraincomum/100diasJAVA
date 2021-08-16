@@ -10,5 +10,32 @@ public class Exercicio24{
          * assim por diante até verificar todos os elementos ou chegar a 
          * conclusão que o vetor não é um palíndromo.*/
         Scanner scan = new Scanner(System.in);
+        int[] vetA = new int[10];
+        boolean palindromo = true;
+        
+        System.out.println("** Verificar se numero digitado no vetor eh palindromo **");
+        for (int i=0; i<vetA.length; i++){            
+            System.out.print("Entre com um numero para a posicao " + i +  " : ");
+            vetA[i] = scan.nextInt();            
+        }
+               
+        for (int i = 0; i < (vetA.length / 2 ); i++){
+            
+            if (vetA[i] != vetA[vetA.length - 1 - i]){
+                palindromo = false;
+                break;
+            }
+        }
+        
+        System.out.print("\nElementos digitados no vetor A = ");
+        for (int i = 0; i < vetA.length; i++){
+            System.out.print(vetA[i] + " ");
+        }
+        
+        if (palindromo){
+            System.out.println("\nPalindromo");
+        } else {
+            System.out.println("\nNao eh palindromo");
+        }
     }
 }

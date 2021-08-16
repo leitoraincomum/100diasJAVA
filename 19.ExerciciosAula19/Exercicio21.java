@@ -31,6 +31,6 @@ public class Exercicio21{
         for (int i=0; i<vetorA.length; i++){
             System.out.print(vetorA[i] + " ");
         }    
-        System.out.println("Porcentagens de 0 = " + porc0);
+        System.out.println("\nPorcentagens de 0 = " + porc0);
         System.out.println("Porcentagens de 1 = " + porc1);
     }}

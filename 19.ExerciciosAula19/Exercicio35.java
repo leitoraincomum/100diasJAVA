@@ -5,5 +5,22 @@ public class Exercicio35{
          * Escreva um programa que imprima cada elemento do vetor A e 
          * a relação de todos os divisores do respectivo elemento. */
         Scanner scan = new Scanner(System.in);
+        int[] vetA = new int[10];
+        System.out.println("** Numeros divisores em relacao ao numero digitado **");
+        
+        for (int i = 0; i < vetA.length; i++){
+            System.out.print("Digite a posicao " + (i + 1) + " do vetor A: ");
+            vetA[i] = scan.nextInt();
+        }
+        
+        for (int i = 0; i < vetA.length; i++){
+            System.out.println("Analizando divisores em relacao ao numero " + vetA[i]);
+            
+            for (int j = 1; j < vetA[i]; j++){
+                if (vetA[i] % j == 0){
+                    System.out.println(j + " eh divisor");
+                }
+            }
+        }
     }
 }
