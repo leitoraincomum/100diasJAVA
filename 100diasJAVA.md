@@ -9,16 +9,29 @@ O foco é desde de rever constéudos já estudados da linguagem como conceitos e
 
 <summary>Dias 01 a 10</summary>
 
-01. Planejamento dos estudos gerais e, especificações dos dias 01 a 10
-02.
-03.
-04.
-05.
-06.
-07.
-08.
-09.
-10.
+###### Dia 01 
+- Planejamento dos estudos gerais e, especificações dos dias 01 a 10
+- Reorganização do repositório
+- Revisão das aulas de 01 a 04 do curso da [Loiane](https://loiane.training/curso/java-basico)
+
+###### Dia 02
+
+###### Dia 03
+
+###### Dia 04
+
+###### Dia 05
+
+###### Dia 06
+
+###### Dia 07
+
+###### Dia 08
+
+###### Dia 09
+
+###### Dia 10
+
 Resumo dos dias 01 a 10: 
 </details>
 

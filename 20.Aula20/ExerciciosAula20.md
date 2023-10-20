@@ -1,6 +1,6 @@
 ```Exercicios Aula 20```
 
-```1. Gere e imprima uma matruz M 4x4 com valores aleatórios entre 0-9. Após isso detemine o maior número de matríz e a sua posição (linha, coluna).```
+```1. Gere e imprima uma matriz M 4x4 com valores aleatórios entre 0-9. Após isso detemine o maior número de matríz e a sua posição (linha, coluna).```
 ```2. Gere e imprima uma matriz M 10 x 10 com valores aleatórios entre 0-9. Após isso indique qual é o maior e o menor valor da linha 5 e qual é o maior e o menor valor da coluna 7.```
 ```3. Capture do teclado valores para preenchimento de uma matriz M 3x3. Após a captura imprima a matriz criada e encontre a quantidade de números pares, a quantidade de números ímpares.```
 ```4.Faça um programa para armazenar em uma matriz os comproimissos de uma agenda pessoal. Cada dia do mês deve conter 24 horas, onde para cada uma destas 24 horas podemos associar uma tarefa especifica (compromisso agendado). O programa deve ter um menu onde o usuário indica o dia do mês que deseja alterar e a hora, entrando em seguida com o compromisso, ou então, o usuário pode também consultar a agenda, fornecendo o dia e a hora para obter o compromisso armazenado.```
