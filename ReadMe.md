@@ -1,8 +1,9 @@
 # ☕ 100diasJAVA
 
-```diff
 Arquivo criado para organizar meu desafio de 100 dias de código com JAVA, sendo iniciado em 20 de outubro de 2023.
-O foco é desde de rever constéudos já estudados da linguagem como conceitos e códigos básicos, como aprimorar o conhecimento de conceitos intermediários e aprender novos conceitos que ainda desconheço da linguagem.
+O foco é rever constéudos já estudados da linguagem como conceitos e códigos básicos, como aprimorar o conhecimento de conceitos intermediários e aprender novos conceitos que ainda desconheço da linguagem.
+```diff
+início: 20/10/2023 | fim previsto: 27/01/2024
 ```
 
 ## 📌 Tópicos estudados
@@ -23,7 +24,7 @@ O foco é desde de rever constéudos já estudados da linguagem como conceitos e
 
 ###### Dia 03
 - Revisão da aula de 06 do curso da [Loiane](https://loiane.training/curso/java-basico)
-- Alteração do repositório e alteração do nome pra colocar todo o conteúdo no mesmo repositório.
+- Alteração do repositório e alteração do nome pra colocar todo o conteúdo do desafio no mesmo repositório.
 
 ###### Dia 04
 
@@ -212,4 +213,3 @@ O foco é desde de rever constéudos já estudados da linguagem como conceitos e
 - [Formatação avançada](https://docs.github.com/pt/get-started/writing-on-github/working-with-advanced-formatting)
 - [Como usar emojis GitHub](https://github.com/StylishThemes/GitHub-Custom-Emojis)
 - [Emojis](https://gist.github.com/rxaviers/7360908)
-
