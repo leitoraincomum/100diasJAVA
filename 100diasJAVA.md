@@ -1,7 +1,6 @@
 # ☕ 100diasJAVA
 
 ```diff
-
 Arquivo criado para organizar meu desafio de 100 dias de código com JAVA, sendo iniciado em 20 de outubro de 2023.
 O foco é desde de rever constéudos já estudados da linguagem como conceitos e códigos básicos, como aprimorar o conhecimento de conceitos intermediários e aprender novos conceitos que ainda desconheço da linguagem.
 ```
