@@ -12,11 +12,16 @@ O foco é desde de rever constéudos já estudados da linguagem como conceitos e
 ###### Dia 01 
 - Planejamento dos estudos gerais e, especificações dos dias 01 a 10
 - Reorganização do repositório
-- Revisão das aulas de 01 a 04 do curso da [Loiane](https://loiane.training/curso/java-basico)
+- Revisão das aulas de 01 a 04 do curso da [Loiane]
+(https://loiane.training/curso/java-basico) sobre conceitos e instalação do framework
 
 ###### Dia 02
+- Revisão da aula de 05 do curso da [Loiane]
+(https://loiane.training/curso/java-basico)
 
 ###### Dia 03
+- Revisão da aula de 06 do curso da [Loiane]
+(https://loiane.training/curso/java-basico)
 
 ###### Dia 04
 
@@ -195,7 +200,10 @@ Repositórios
 Cursos
 - [Loiane](https://loiane.training)
 
+
+Vídeos
+- [YouTube - 100 Dias de Java Para Iniciantes](https://www.youtube.com/playlist?list=PL2e_bCYJql2cn0S-fXTBoOMeP_ymSwDDD)
+
 Outros
-1. [Formatação Github Markdown](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#further-reading)
-1.  [Formatação avançada](https://docs.github.com/pt/get-started/writing-on-github/working-with-advanced-formatting)
-1. [YouTube - 100 Dias de Java Para Iniciantes](https://www.youtube.com/playlist?list=PL2e_bCYJql2cn0S-fXTBoOMeP_ymSwDDD)
+- [Formatação Github Markdown](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#further-reading)
+- [Formatação avançada](https://docs.github.com/pt/get-started/writing-on-github/working-with-advanced-formatting)
