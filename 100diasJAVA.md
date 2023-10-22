@@ -13,16 +13,17 @@ O foco é desde de rever constéudos já estudados da linguagem como conceitos e
 
 ###### Dia 01 
 
-- Planejamento dos estudos gerais e, especificações dos dias 01 a 10
-- Reorganização do repositório
-- Revisão das aulas de 01 a 04 do curso da [Loiane](https://loiane.training/curso/java-basico) sobre conceitos e instalação do framework
+- Planejamento dos estudos gerais e, especificações dos dias 01 a 10.
+- Reorganização do repositório.
+- Revisão das aulas de 01 a 04 do curso da [Loiane](https://loiane.training/curso/java-basico) sobre conceitos e instalação do framework.
 
 
 ###### Dia 02
-- Revisão da aula de 05 do curso da [Loiane](https://loiane.training/curso/java-basico)
+- Revisão da aula de 05 do curso da [Loiane](https://loiane.training/curso/java-basico).
 
 ###### Dia 03
 - Revisão da aula de 06 do curso da [Loiane](https://loiane.training/curso/java-basico)
+- Alteração do repositório e alteração do nome pra colocar todo o conteúdo no mesmo repositório.
 
 ###### Dia 04
 
