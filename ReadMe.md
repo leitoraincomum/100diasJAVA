@@ -27,6 +27,7 @@ início: 20/10/2023 | fim previsto: 27/01/2024
 - Alteração do repositório e alteração do nome pra colocar todo o conteúdo do desafio no mesmo repositório.
 
 ###### Dia 04
+- Revisão de conceitos para prova de aptidão técnica de processo seletivo para um curso
 
 ###### Dia 05
 
