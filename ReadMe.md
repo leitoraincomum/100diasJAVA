@@ -16,20 +16,21 @@ início: 20/10/2023 | fim previsto: 27/01/2024
 
 - Planejamento dos estudos gerais e, especificações dos dias 01 a 10.
 - Reorganização do repositório.
-- Revisão das aulas de 01 a 04 do curso da [Loiane](https://loiane.training/curso/java-basico) sobre conceitos e instalação do framework.
+- Revisão das aulas de 01 a 04 do curso da [Loiane de JAVA básico](https://loiane.training/curso/java-basico) sobre conceitos e instalação do framework.
 
 
 ###### Dia 02
-- Revisão da aula de 05 do curso da [Loiane](https://loiane.training/curso/java-basico).
+- Revisão da aula de 05 do curso da [Loiane de JAVA básico](https://loiane.training/curso/java-basico).
 
 ###### Dia 03
-- Revisão da aula de 06 do curso da [Loiane](https://loiane.training/curso/java-basico)
+- Revisão da aula de 06 do curso da [Loiane de JAVA básico](https://loiane.training/curso/java-basico)
 - Alteração do repositório e alteração do nome pra colocar todo o conteúdo do desafio no mesmo repositório.
 
 ###### Dia 04
 - Revisão de conceitos para prova de aptidão técnica de processo seletivo para um curso.
 
 ###### Dia 05
+- Revisão da aula de 07 do curso da [Loiane de JAVA básico](https://loiane.training/curso/java-basico)
 
 ###### Dia 06
 
@@ -202,7 +203,7 @@ início: 20/10/2023 | fim previsto: 27/01/2024
 - [rosacarla](https://github.com/rosacarla/100-days-of-code-challenge-Java)
 
 📄 Cursos
-- [Loiane](https://loiane.training)
+- [Loiane - Cursos com certificado](https://loiane.training)
 
 
 🎥 Vídeos
