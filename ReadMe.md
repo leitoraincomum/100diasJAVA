@@ -17,25 +17,32 @@ início: 20/10/2023 | fim previsto: 27/01/2024
 - Planejamento dos estudos gerais e, especificações dos dias 01 a 10.
 - Reorganização do repositório.
 - Revisão das aulas de 01 a 04 do curso [JAVA básico](https://loiane.training/curso/java-basico) sobre conceitos e instalação do framework.
-
+- Post sobre o início do desafio [dev.to](https://dev.to/feministech/100-dias-de-java-44jg).
+- Temas vistos: conceitos básicos da linguagem, framework e reposiotórios para organização do início dos estudos.
 
 ###### Dia 02
 - Revisão da aula 05 do curso [JAVA básico](https://loiane.training/curso/java-basico).
+- Temas vistos: estrutura básica de como criar a primeira classe e "olá mundo".
 
 ###### Dia 03
 - Revisão da aula 06 do curso [JAVA básico](https://loiane.training/curso/java-basico)
 - Alteração do repositório e alteração do nome pra colocar todo o conteúdo do desafio no mesmo repositório.
+- Temas vistos: definição de argumentos que serão recebids e exemplo na prática
 
 ###### Dia 04
 - Revisão de conceitos para prova de aptidão técnica de processo seletivo para um curso.
+- Temas vistos: conceitos gerais da linguagem e lógica.
 
 ###### Dia 05
 - Revisão das aulas 07 e 08 do curso [JAVA básico](https://loiane.training/curso/java-basico)
+- Temas vistos: entendendo erros de sintaxe e semantica, conhecendo IDEs.
 
 ###### Dia 06
 - Revisão da aula 09 do curso [JAVA básico](https://loiane.training/curso/java-basico)
+- Tema visto: Introdução à Orientação a Objetos
 
 ###### Dia 07
+
 
 ###### Dia 08
 
