@@ -16,23 +16,24 @@ início: 20/10/2023 | fim previsto: 27/01/2024
 
 - Planejamento dos estudos gerais e, especificações dos dias 01 a 10.
 - Reorganização do repositório.
-- Revisão das aulas de 01 a 04 do curso da [Loiane de JAVA básico](https://loiane.training/curso/java-basico) sobre conceitos e instalação do framework.
+- Revisão das aulas de 01 a 04 do curso [JAVA básico](https://loiane.training/curso/java-basico) sobre conceitos e instalação do framework.
 
 
 ###### Dia 02
-- Revisão da aula de 05 do curso da [Loiane de JAVA básico](https://loiane.training/curso/java-basico).
+- Revisão da aula 05 do curso [JAVA básico](https://loiane.training/curso/java-basico).
 
 ###### Dia 03
-- Revisão da aula de 06 do curso da [Loiane de JAVA básico](https://loiane.training/curso/java-basico)
+- Revisão da aula 06 do curso [JAVA básico](https://loiane.training/curso/java-basico)
 - Alteração do repositório e alteração do nome pra colocar todo o conteúdo do desafio no mesmo repositório.
 
 ###### Dia 04
 - Revisão de conceitos para prova de aptidão técnica de processo seletivo para um curso.
 
 ###### Dia 05
-- Revisão da aula de 07 do curso da [Loiane de JAVA básico](https://loiane.training/curso/java-basico)
+- Revisão das aulas 07 e 08 do curso [JAVA básico](https://loiane.training/curso/java-basico)
 
 ###### Dia 06
+- Revisão da aula 09 do curso [JAVA básico](https://loiane.training/curso/java-basico)
 
 ###### Dia 07
 
@@ -191,7 +192,7 @@ início: 20/10/2023 | fim previsto: 27/01/2024
 🏆 Resumo dos dias 91 a 100: 
 </details>
 
-## 🎯 Ferramentas utilizados
+## ⚙️ Ferramentas utilizadas
 - Visual Studio Code
 - Github
 
@@ -210,8 +211,14 @@ início: 20/10/2023 | fim previsto: 27/01/2024
 - [[Playlist] 100 Dias de Java Para Iniciantes](https://www.youtube.com/playlist?list=PL2e_bCYJql2cn0S-fXTBoOMeP_ymSwDDD)
 - [[Playlist] Curso de Java Básico - Loiane](https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r)
 
+🎯 IDEs
+- Eclipse
+- Netbeans
+- Intellij IDEA
+
 📍 Outros
 - [Formatação Github Markdown](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#further-reading)
 - [Formatação avançada](https://docs.github.com/pt/get-started/writing-on-github/working-with-advanced-formatting)
 - [Como usar emojis GitHub](https://github.com/StylishThemes/GitHub-Custom-Emojis)
 - [Emojis](https://gist.github.com/rxaviers/7360908)
+- [Git e Github para iniciantes - Loiane](https://www.youtube.com/watch?v=UMhskLXJuq4)
