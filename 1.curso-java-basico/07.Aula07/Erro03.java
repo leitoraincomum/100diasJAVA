@@ -1,8 +1,7 @@
-class Erro01 {
+public class Erro03 {
     public static void main(String[] args){
-        //System.out.println("Hello World) - erro 1
-        //System.out.println("Hello World") - erro 2
-        System.out.println("Hello World");
+        //case sensitive escrevendo o nome da classe main com letra maiuscula
+        System.out.println("Você digitou ");
         //estrutura usada para fazer simulações de erros de digitação e sintaxe
         //revisado em 24/10/2023
     }

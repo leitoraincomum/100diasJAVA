@@ -35,14 +35,15 @@ início: 20/10/2023 | fim previsto: 27/01/2024
 
 ###### Dia 05
 - Revisão das aulas 07 e 08 do curso [JAVA básico](https://loiane.training/curso/java-basico)
-- Temas vistos: entendendo erros de sintaxe e semantica, conhecendo IDEs.
+- Temas vistos: entendendo erros de sintaxe, semantica e tempo de execução. Conhecendo IDEs.
 
 ###### Dia 06
 - Revisão da aula 09 do curso [JAVA básico](https://loiane.training/curso/java-basico)
 - Tema visto: Introdução à Orientação a Objetos
 
 ###### Dia 07
-
+- Revisão da aula 10 do curso [JAVA básico](https://loiane.training/curso/java-basico)
+- Tema visto: Introdução a Variáveis - palavras reservadas, boas práticas e introdução sobre tipos primitivos.
 
 ###### Dia 08
 

@@ -1,8 +1,11 @@
-package 10.Aula10;
-    public class variaveis {
-        int idade;
-        String nome;
-        String nomeDoMeuCachorro;
+class Variaveis {
+    public static void main(String[] args){
+        int idade = 38;
+        String nome = "Fernanda";
+        String nomeDoMeuCachorro = "Gargamel";
         //para exibir as variáveis
-        System.out.println("");
+        System.out.println("Minha idade: " + idade
+        + "\nMeu nome: " + nome + 
+        "\nNome do meu cachorro: " + nomeDoMeuCachorro);
+}
 }
