@@ -5,5 +5,6 @@ public class VariaveisBoolean {
 
         System.out.println("O valor de verdadeiro eh: " +  verdadeiro);
         System.out.println("O valor de falso eh: " +  falso);
+         //revisado em 27/10/2023
     }   
 }

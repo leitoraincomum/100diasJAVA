@@ -6,6 +6,8 @@ O foco é rever constéudos já estudados da linguagem como conceitos e códigos
 início: 20/10/2023 | fim previsto: 27/01/2024
 ```
 
+[Post do início do desafio no Dev.to](dev.to/leitoraincomum/100-dias-de-java-44jg)
+
 ## 📌 Tópicos estudados
 
 <details>
@@ -43,9 +45,11 @@ início: 20/10/2023 | fim previsto: 27/01/2024
 
 ###### Dia 07
 - Revisão da aula 10 do curso [JAVA básico](https://loiane.training/curso/java-basico)
-- Tema visto: Introdução a Variáveis - palavras reservadas, boas práticas e introdução sobre tipos primitivos.
+- Temas vistos: Introdução a Variáveis - palavras reservadas, boas práticas e introdução sobre tipos primitivos.
 
 ###### Dia 08
+- Revisão da aula 10 do curso [JAVA básico](https://loiane.training/curso/java-basico)
+- Temas vistos: Variáveis -> Tipos Primitivos: boolean, números inteiros (byte, short, int, long e char) e ponto flutuante (float e double). Uso de notação cientifica, hexadecimais, octais e binários. Uso do undescore nos números literais (o que pode e não pode). Usos de escapes no char (\t - tab, \n - nova linha, etc).
 
 ###### Dia 09
 
@@ -230,3 +234,4 @@ início: 20/10/2023 | fim previsto: 27/01/2024
 - [Como usar emojis GitHub](https://github.com/StylishThemes/GitHub-Custom-Emojis)
 - [Emojis](https://gist.github.com/rxaviers/7360908)
 - [Git e Github para iniciantes - Loiane](https://www.youtube.com/watch?v=UMhskLXJuq4)
+- [ASCII TABLE](https://www.asciitable.com)

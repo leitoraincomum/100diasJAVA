@@ -7,5 +7,6 @@ class Variaveis {
         System.out.println("Minha idade: " + idade
         + "\nMeu nome: " + nome + 
         "\nNome do meu cachorro: " + nomeDoMeuCachorro);
+         //revisado em 26/10/2023
 }
 }
