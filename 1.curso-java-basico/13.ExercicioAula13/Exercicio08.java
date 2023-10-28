@@ -19,3 +19,4 @@ public class Exercicio08{
         System.out.println("O valor do salario eh: " + valorTotal);
     }
 }
+//revisado em 28/10/2023

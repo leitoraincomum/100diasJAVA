@@ -13,6 +13,7 @@ public class Exercicio09 {
     fahrenheit = scan.nextDouble();
     celsius = 5 * ((fahrenheit - 32)/9);
 
-    System.out.println(fahrenheit + "graus F convertido eh " + celsius + " graus C");
+    System.out.println(fahrenheit + " graus F convertido eh " + celsius + " graus C");
     }    
 }
+//revisado em 28/10/2023

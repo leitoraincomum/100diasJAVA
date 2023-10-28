@@ -11,10 +11,12 @@ public class OperadoresLogicos {
 
         boolean verdadeiro = true;
         boolean falso = false;
-        System.out.println(verdadeiro && falso);
-        System.out.println(verdadeiro || falso);
-        System.out.println(verdadeiro ^ falso);
-        System.out.println(!verdadeiro && falso);
+        System.out.println("Tabela Verdade");
+        System.out.println("Verdadeiro E Falso: " + (verdadeiro && falso));
+        System.out.println("Verdadeiro OU Falso: " + (verdadeiro || falso));
+        System.out.println("Verdadeiro XOR Falso: " + (verdadeiro ^ falso));
+        System.out.println("!(Verdadeiro e Falso): " + (!verdadeiro && falso));
 
     }
 }
+        //revisado em 28/10/2023

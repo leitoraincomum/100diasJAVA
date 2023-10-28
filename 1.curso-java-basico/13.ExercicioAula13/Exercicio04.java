@@ -17,3 +17,4 @@ public class Exercicio04 {
         System.out.println("A media das notas digitadas eh: " +  media);
     }
 }
+//revisado em 28/10/2023

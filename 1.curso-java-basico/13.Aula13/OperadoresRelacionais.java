@@ -11,3 +11,4 @@ public class OperadoresRelacionais{
         System.out.println("valor 1 <=  valor 2: " +  (valor1 <= valor2));
     }
 }
+        //revisado em 28/10/2023

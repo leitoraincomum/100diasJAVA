@@ -29,29 +29,31 @@ início: 20/10/2023 | fim previsto: 27/01/2024
 ###### Dia 03
 - Revisão da aula 06 do curso [JAVA básico](https://loiane.training/curso/java-basico)
 - Alteração do repositório e alteração do nome pra colocar todo o conteúdo do desafio no mesmo repositório.
-- Temas vistos: definição de argumentos que serão recebids e exemplo na prática
+- Temas vistos: definição de argumentos que serão recebids e exemplo na prática.
 
 ###### Dia 04
 - Revisão de conceitos para prova de aptidão técnica de processo seletivo para um curso.
 - Temas vistos: conceitos gerais da linguagem e lógica.
 
 ###### Dia 05
-- Revisão das aulas 07 e 08 do curso [JAVA básico](https://loiane.training/curso/java-basico)
+- Revisão das aulas 07 e 08 do curso [JAVA básico](https://loiane.training/curso/java-basico).
 - Temas vistos: entendendo erros de sintaxe, semantica e tempo de execução. Conhecendo IDEs.
 
 ###### Dia 06
-- Revisão da aula 09 do curso [JAVA básico](https://loiane.training/curso/java-basico)
-- Tema visto: Introdução à Orientação a Objetos
+- Revisão da aula 09 do curso [JAVA básico](https://loiane.training/curso/java-basico).
+- Tema visto: Introdução à Orientação a Objetos.
 
 ###### Dia 07
-- Revisão da aula 10 do curso [JAVA básico](https://loiane.training/curso/java-basico)
+- Revisão da aula 10 do curso [JAVA básico](https://loiane.training/curso/java-basico).
 - Temas vistos: Introdução a Variáveis - palavras reservadas, boas práticas e introdução sobre tipos primitivos.
 
 ###### Dia 08
-- Revisão da aula 10 do curso [JAVA básico](https://loiane.training/curso/java-basico)
+- Revisão da aula 11 do curso [JAVA básico](https://loiane.training/curso/java-basico).
 - Temas vistos: Variáveis -> Tipos Primitivos: boolean, números inteiros (byte, short, int, long e char) e ponto flutuante (float e double). Uso de notação cientifica, hexadecimais, octais e binários. Uso do undescore nos números literais (o que pode e não pode). Usos de escapes no char (\t - tab, \n - nova linha, etc).
 
 ###### Dia 09
+- Revisão das aulas 12 e 13 do curso [JAVA básico](https://loiane.training/curso/java-basico).
+- Temas vistos: Leitura de dados do teclado com a classe Scanner. Operadores lógicos, aritiméticos, relacionais e assignment. Conceito da tabela verdade, curto circuito e ordem de precedência. Exercícios de fixação de conceitos vistos.
 
 ###### Dia 10
 
@@ -223,15 +225,16 @@ início: 20/10/2023 | fim previsto: 27/01/2024
 - [[Playlist] 100 Dias de Java Para Iniciantes](https://www.youtube.com/playlist?list=PL2e_bCYJql2cn0S-fXTBoOMeP_ymSwDDD)
 - [[Playlist] Curso de Java Básico - Loiane](https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r)
 
-🎯 IDEs
+🎯 IDEs citadas nos cursos
 - Eclipse
 - Netbeans
 - Intellij IDEA
 
-📍 Outros
+📍 Outros conteúdos
 - [Formatação Github Markdown](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#further-reading)
 - [Formatação avançada](https://docs.github.com/pt/get-started/writing-on-github/working-with-advanced-formatting)
 - [Como usar emojis GitHub](https://github.com/StylishThemes/GitHub-Custom-Emojis)
 - [Emojis](https://gist.github.com/rxaviers/7360908)
 - [Git e Github para iniciantes - Loiane](https://www.youtube.com/watch?v=UMhskLXJuq4)
 - [ASCII TABLE](https://www.asciitable.com)
+- [Exercícios - Wiki Python](https://wiki.python.org.br/ListaDeExercicios)

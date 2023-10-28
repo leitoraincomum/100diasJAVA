@@ -15,7 +15,7 @@ public class Exercicio11 {
         int1 = scan.nextInt();
         int2 = scan.nextInt();
 
-        prodDobro = (int1 * 2) + (int2/2);
+        prodDobro = (int1 * 2) * (int2/2);
 
         System.out.println("Digite um numero qualquer: ");
         real = scan.nextDouble();
@@ -30,3 +30,4 @@ public class Exercicio11 {
     }
     
 }
+//revisado em 28/10/2023

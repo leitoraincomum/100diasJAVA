@@ -16,3 +16,4 @@ public class Exercicio06 {
     }
     
 }
+//revisado em 28/10/2023

@@ -10,3 +10,4 @@ public class CurtoCircuito {
         System.out.println(resultado2);
     }
 }
+        //revisado em 28/10/2023

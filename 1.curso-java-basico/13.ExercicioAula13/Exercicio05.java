@@ -12,8 +12,9 @@ public class Exercicio05 {
 
         centimetros = metros * 100;
 
-        System.out.println(metros + " em centimetros eh igual a :" + centimetros);
+        System.out.println(metros + " em centimetros eh igual a : " + centimetros);
 
     }
     
 }
+//revisado em 28/10/2023

@@ -53,4 +53,5 @@ public class OperadoresAritmeticos{
         //System.out.println(resultado);
 
     }
+        //revisado em 28/10/2023
 }

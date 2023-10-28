@@ -16,3 +16,4 @@ public class Exercicio10 {
          System.out.println(celsius + " graus C convertido eh " + fahrenheit + " graus F");
     }
 }
+//revisado em 28/10/2023
