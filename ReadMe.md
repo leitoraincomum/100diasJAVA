@@ -56,6 +56,8 @@ início: 20/10/2023 | fim previsto: 27/01/2024
 - Temas vistos: Leitura de dados do teclado com a classe Scanner. Operadores lógicos, aritiméticos, relacionais e assignment. Conceito da tabela verdade, curto circuito e ordem de precedência. Exercícios de fixação de conceitos vistos.
 
 ###### Dia 10
+- Revisão das aulas 14 e 15 do curso [JAVA básico](https://loiane.training/curso/java-basico).
+- Temas vistos: Condicionais if-else e switch-case. Exercícios de fixação de conceitos vistos.
 
 🏆 Resumo dos dias 01 a 10: 
 </details>
@@ -216,6 +218,7 @@ início: 20/10/2023 | fim previsto: 27/01/2024
 
 - [Gabrielsilvaa](https://github.com/Gabrielsilvaa/100-Dias-de-Java-para-iniciantes-)
 - [rosacarla](https://github.com/rosacarla/100-days-of-code-challenge-Java)
+- [Loiane - Curso JAVA básico](https://github.com/loiane/curso-java-basico)
 
 📄 Cursos
 - [Loiane - Cursos com certificado](https://loiane.training)

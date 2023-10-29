@@ -20,4 +20,4 @@ public class Exercicio05 {
             System.out.println("Reprovado " + media);           
         }
     }
-}
+}// revisado 29/10/2023

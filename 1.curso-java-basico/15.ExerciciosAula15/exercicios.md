@@ -1,12 +1,20 @@
-## Lista de Exercícios
+## 🎯 Lista de Exercícios aulas 14 e 15
 
-```1. Faça um Programa que peça dois números e imprima o maior deles.```
+```
+1. Faça um Programa que peça dois números e imprima o maior deles.
+```
 
-```2. Faça um Programa que peça um valor e mostre na tela se o valor é positivo ou negativo.```
+```
+2. Faça um Programa que peça um valor e mostre na tela se o valor é positivo ou negativo.
+```
 
-```3. Faça um Programa que verifique se uma letra digitada é "F" ou "M". Conforme a letra escrever: F - Feminino, M - Masculino, Sexo Inválido.```
+```
+3. Faça um Programa que verifique se uma letra digitada é "F" ou "M". Conforme a letra escrever: F - Feminino, M - Masculino, Sexo Inválido.
+```
 
-```4. Faça um Programa que verifique se uma letra digitada é vogal ou consoante.```
+```
+4. Faça um Programa que verifique se uma letra digitada é vogal ou consoante.
+```
 
 ```
 5. Faça um programa para a leitura de duas notas parciais de um aluno. O programa deve calcular a média alcançada por aluno e apresentar:
@@ -15,15 +23,25 @@
 - A mensagem "Aprovado com Distinção", se a média for igual a dez.
 ```
 
-```6. Faça um Programa que leia três números e mostre o maior deles.```
+```
+6. Faça um Programa que leia três números e mostre o maior deles.
+```
 
-```7. Faça um Programa que leia três números e mostre o maior e o menor deles.```
+```
+7. Faça um Programa que leia três números e mostre o maior e o menor deles.
+```
 
-```8. Faça um programa que pergunte o preço de três produtos e informe qual produto você deve comprar, sabendo que a decisão é sempre pelo mais barato.```
+```
+8. Faça um programa que pergunte o preço de três produtos e informe qual produto você deve comprar, sabendo que a decisão é sempre pelo mais barato.
+```
 
-```9. Faça um Programa que leia três números e mostre-os em ordem decrescente.```
+```
+9. Faça um Programa que leia três números e mostre-os em ordem decrescente.
+```
 
-```10. Faça um Programa que pergunte em que turno você estuda. Peça para digitar M-matutino ou V-Vespertino ou N- Noturno. Imprima a mensagem "Bom Dia!", "Boa Tarde!" ou "Boa Noite!" ou "Valor Inválido!", conforme o caso.```
+```
+10. Faça um Programa que pergunte em que turno você estuda. Peça para digitar M-matutino ou V-Vespertino ou N- Noturno. Imprima a mensagem "Bom Dia!", "Boa Tarde!" ou "Boa Noite!" ou "Valor Inválido!", conforme o caso.
+```
 
 ```
 11. As Organizações Tabajara resolveram dar um aumento de salário aos seus colaboradores e lhe contraram para desenvolver o programa que calculará os reajustes.
@@ -53,7 +71,9 @@ Desconto do IR:
         Salário Liquido                 : R$  935,00
 ```
 
-```13. Faça um Programa que leia um número e exiba o dia correspondente da semana. (1-Domingo, 2- Segunda, etc.), se digitar outro valor deve aparecer valor inválido.```
+```
+13. Faça um Programa que leia um número e exiba o dia correspondente da semana. (1-Domingo, 2- Segunda, etc.), se digitar outro valor deve aparecer valor inválido.
+```
 
 ```
 14. Faça um programa que lê as duas notas parciais obtidas por um aluno numa disciplina ao longo de um semestre, e calcule a sua média. A atribuição de conceitos obedece à tabela abaixo:
@@ -83,9 +103,13 @@ c. Se o delta calculado for igual a zero a equação possui apenas uma raiz real
 d. Se o delta for positivo, a equação possui duas raiz reais; informe-as ao usuário;
 ```
 
-```17. Faça um Programa que peça um número correspondente a um determinado ano e em seguida informe se este ano é ou não bissexto.```
+```
+17. Faça um Programa que peça um número correspondente a um determinado ano e em seguida informe se este ano é ou não bissexto.
+```
 
-```22. Faça um Programa que peça um número inteiro e determine se ele é par ou impar. Dica: utilize o operador módulo (resto da divisão).```
+```
+22. Faça um Programa que peça um número inteiro e determine se ele é par ou impar. Dica: utilize o operador módulo (resto da divisão).
+```
 
 ```
 24. Faça um Programa que leia 2 números e em seguida pergunte ao usuário qual operação ele deseja realizar. O resultado da operação deve ser acompanhado de uma frase que diga se o número é:
@@ -132,4 +156,6 @@ Picanha         R$ 6,90 por Kg          R$ 7,80 por Kg
 - Para atender a todos os clientes, cada cliente poderá levar apenas um dos tipos de carne da promoção, porém não há limites para a quantidade de carne por cliente. Se compra for feita no cartão Tabajara o cliente receberá ainda um desconto de 5% sobre o total da compra. Escreva um programa que peça o tipo e a quantidade de carne comprada pelo usuário e gere um cupom fiscal, contendo as informações da compra: tipo e quantidade de carne, preço total, tipo de pagamento, valor do desconto e valor a pagar.
 ```
 
-[Fonte](https://wiki.python.org.br/EstruturaDeDecisao)
+- [Fonte - Wiki Python](https://wiki.python.org.br/EstruturaDeDecisao)
+- [PDF Loiane dos exercícios](https://github.com/loiane/curso-java-basico/blob/master/exercicios/Exercicios%20Aulas%2014%2015.pdf)
+- Revisado em 29/10/2023

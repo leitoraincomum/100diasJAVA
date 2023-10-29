@@ -13,13 +13,22 @@ public class Exercicio03 {
         sexo = sexo.toUpperCase();
 
         switch(sexo){
-            case "F": System.out.println("Sexo feminino " + sexo); break;
-            case "M": System.out.println("Sexo masculino " + sexo); break;
-            default: System.out.println("Sexo invalido " + sexo); 
+            case "F": System.out.println("Sexo feminino - " + sexo); break;
+            case "M": System.out.println("Sexo masculino - " + sexo); break;
+            default: System.out.println("Sexo invalido - " + sexo); 
         }
-
+/*
+        System.out.println("Entre com uma letra (F ou M):");
+        String input = scan.next();
         
-
+        if (input.equalsIgnoreCase("f")){
+            System.out.println("F - feminino");
+        } else if (input.equalsIgnoreCase("m")){
+            System.out.println("M - masculino");
+        } else {
+            System.out.println("Sexo inválido");
+        }    
+*/
     }
     
-}
+}// Revisado em 29/10/2023

@@ -13,7 +13,7 @@ public class Exercicio09{
         int num3 = scan.nextInt();
 
         if(num1 <= num2 && num1 <= num3 && num2 <= num3) {
-            //num1 < num2 < num3 -ok
+            //num1 < num2 < num3 - ok
             System.out.println("Ordem decrescente: " + num3 + " - " + num2 + " - " + num1);
         }else if (num1 <= num2 && num1 <= num3 && num3 <= num2){
             //num1 < num3 < num2 - ok
@@ -32,4 +32,4 @@ public class Exercicio09{
             System.out.println("Ordem decrescente: " + num1 + " - " + num2 + " - " + num3);
         }
     }
-}
+}//revisado 29/10/2023

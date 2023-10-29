@@ -26,6 +26,23 @@ public class Exercicio15 {
         } else {
             System.out.println(" Nao eh um triangulo");
         }
+        /*
+          if (((lado1 + lado2) > lado3) || 
+                ((lado1 + lado3) > lado2) || 
+                ((lado2 + lado3) > lado1)){
+            
+            if (lado1 == lado2 && lado1 == lado3 && lado2 == lado3){
+                System.out.println("Triângulo Equilátero");
+            } else if (lado1 != lado2 && lado1 != lado3 && lado3 != lado2){
+                System.out.println("Triângulo Escaleno");
+            } else if (lado1 == lado2 || lado1 == lado3 || lado2 == lado3){
+                System.out.println("Triângulo Isóceles");
+            }
+            
+        } else {
+            System.out.println("não forma um triângulo");
+        }
+         */
 
     }
     

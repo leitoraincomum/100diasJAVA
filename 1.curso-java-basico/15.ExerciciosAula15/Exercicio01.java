@@ -12,8 +12,8 @@ public class Exercicio01{
             System.out.println("O maior numero digitado foi: " + num1);
         }else if (num2 > num1){
             System.out.println("O maior numero digitado foi: " + num2);
-        } else {
+        } else {// além do solicitado
             System.out.println("Os numeros digitados sao iguais");
         }
     }
-}
+}// Revisado em 29/10/2023

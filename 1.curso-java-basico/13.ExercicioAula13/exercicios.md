@@ -67,7 +67,9 @@ Obs.: Salário Bruto - Descontos = Salário Líquido.
 ```
 
 ```
-18.Faça um programa que peça o tamanho de um arquivo para download (em MB) e a velocidade de um link de Internet (em Mbps), calcule e informe o tempo aproximado de download do arquivo usando este link (em minutos
+18.Faça um programa que peça o tamanho de um arquivo para download (em MB) e a velocidade de um link de Internet (em Mbps), calcule e informe o tempo aproximado de download do arquivo usando este link (em minutos).
 ```
 
-[Fonte - Wiki Python](https://wiki.python.org.br/EstruturaSequencial)
+- [Fonte - Wiki Python](https://wiki.python.org.br/EstruturaSequencial)
+- [PDF Loiane dos exercícios](https://github.com/loiane/curso-java-basico/blob/master/exercicios/Exercicios%20Aulas%2011%2012%2013.pdf)
+- Revisado em 28/10/2023

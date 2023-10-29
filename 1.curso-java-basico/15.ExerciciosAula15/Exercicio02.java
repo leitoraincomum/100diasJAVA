@@ -13,4 +13,4 @@ public class Exercicio02 {
             System.out.println("O numero digitado: " + num + " eh negativo");
         }
     }
-}
+}// Revisado em 29/10/2023

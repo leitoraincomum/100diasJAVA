@@ -13,4 +13,4 @@ public class Exercicio22{
             System.out.println("Eh um numero impar!!");
         }
     }
-}
+}// revisado 29/10/2023
