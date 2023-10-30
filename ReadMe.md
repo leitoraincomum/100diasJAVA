@@ -1,8 +1,12 @@
 # ☕ 100diasJAVA
 
-Arquivo criado para organizar meu desafio de 100 dias de código com JAVA, sendo iniciado em 20 de outubro de 2023.
+<div align="center">
+  <img src=".\img\100diasJAVA.png">
+</div>
+
+Repositório criado para organizar meu desafio de 100 dias de código com JAVA, sendo iniciado em 20 de outubro de 2023.
 O foco é rever constéudos já estudados da linguagem como conceitos e códigos básicos, como aprimorar o conhecimento de conceitos intermediários e aprender novos conceitos que ainda desconheço da linguagem.
-```diff
+```
 início: 20/10/2023 | fim previsto: 27/01/2024
 ```
 
@@ -59,152 +63,245 @@ início: 20/10/2023 | fim previsto: 27/01/2024
 - Revisão das aulas 14 e 15 do curso [JAVA básico](https://loiane.training/curso/java-basico).
 - Temas vistos: Condicionais if-else e switch-case. Exercícios de fixação de conceitos vistos.
 
-🏆 Resumo dos dias 01 a 10: 
+🏆 Resumo dos dias 01 a 10: [Dev.to](https://dev.to/leitoraincomum/100-dias-de-java-dias-1-a-10-1j3m)
 </details>
 
 <details>
 
 <summary>Dias 11 a 20</summary>
 
-11.
-12.
-13.
-14.
-15.
-16.
-17.
-18.
-19.
-20.
+###### Dia 11
+- Revisão da correção dos exercícios das aulas 14 e 15 do curso [JAVA básico](https://loiane.training/curso/java-basico).
+- Temas vistos: Condicionais if-else e switch-case.
+
+###### Dia 12
+
+###### Dia 13
+
+###### Dia 14
+
+###### Dia 15
+
+###### Dia 16
+
+###### Dia 17
+
+###### Dia 18
+
+###### Dia 19
+
+###### Dia 20
+
 🏆 Resumo dos dias 11 a 20: 
 </details>
 <details>
 
 <summary>Dias 21 a 30</summary>
 
-20.
-21.
-22.
-23.
-24.
-25.
-26.
-27.
-28.
-29.
-30.
+###### Dia 20
+
+###### Dia 21
+
+###### Dia 22
+
+###### Dia 23
+
+###### Dia 24
+
+###### Dia 25
+
+###### Dia 26
+
+###### Dia 27
+
+###### Dia 28
+
+###### Dia 29
+
+###### Dia 30
+
 🏆 Resumo dos dias 21 a 30: 
 </details>
 <details>
 
 <summary>Dias 31 a 40</summary>
 
-31.
-32.
-33.
-34.
-35.
-36.
-37.
-38.
-39.
-40.
+###### Dia 31
+
+###### Dia 32
+
+###### Dia 33
+
+###### Dia 34
+
+###### Dia 35
+
+###### Dia 36
+
+###### Dia 37
+
+###### Dia 38
+
+###### Dia 39
+
+###### Dia 40
+
 🏆 Resumo dos dias 31 a 40: 
 </details>
 <details>
 
 <summary>Dias 41 a 50</summary>
 
-41.
-42.
-43.
-44.
-45.
-46.
-47.
-48.
-49.
-40.
+###### Dia 41
+
+###### Dia 42
+
+###### Dia 43
+
+###### Dia 44
+
+###### Dia 45
+
+###### Dia 46
+
+###### Dia 47
+
+###### Dia 48
+
+###### Dia 49
+
+###### Dia 50
+
 🏆 Resumo dos dias 41 a 50: 
 </details>
 <details>
 
 <summary>Dias 51 a 60</summary>
 
-51.
-52.
-53.
-54.
-55.
-56.
-57.
-58.
-59.
-60.
+###### Dia 51
+
+###### Dia 52
+
+###### Dia 53
+
+###### Dia 54
+
+###### Dia 55
+
+###### Dia 56
+
+###### Dia 57
+
+###### Dia 58
+
+###### Dia 59
+
+###### Dia 60
+
 🏆 Resumo dos dias 51 a 60: 
 </details>
 <details>
 
 <summary>Dias 61 a 70</summary>
 
-61.
-62.
-63.
-64.
-65.
-66.
-67.
-68.
-69.
-70.
+###### Dia 61
+
+###### Dia 62
+
+###### Dia 63
+
+###### Dia 64
+
+###### Dia 65
+
+###### Dia 66
+
+###### Dia 67
+
+###### Dia 68
+
+###### Dia 69
+
+###### Dia 70
+
 🏆 Resumo dos dias 61 a 70: 
 </details>
 <details>
 
 <summary>Dias 71 a 70</summary>
 
-71.
-72.
-73.
-74.
-75.
-76.
-77.
-78.
-79.
-80.
+###### Dia 71
+
+###### Dia 72
+
+###### Dia 73
+
+###### Dia 74
+
+###### Dia 75
+
+###### Dia 76
+
+###### Dia 77
+
+###### Dia 78
+
+###### Dia 79
+
+###### Dia 80
+
 🏆 Resumo dos dias 71 a 80: 
 </details>
 <details>
 
 <summary>Dias 81 a 90</summary>
 
-81.
-82.
-83.
-84.
-85.
-86.
-87.
-88.
-89.
-90.
+###### Dia 81
+
+###### Dia 82
+
+###### Dia 83
+
+###### Dia 84
+
+###### Dia 85
+
+###### Dia 86
+
+###### Dia 87
+
+###### Dia 88
+
+###### Dia 89
+
+###### Dia 90
+
 🏆 Resumo dos dias 81 a 90: 
 </details>
 <details>
 
 <summary>Dias 91 a 100</summary>
 
-91.
-92.
-93.
-94.
-95.
-96.
-97.
-98.
-99.
-100.
+###### Dia 91
+
+###### Dia 92
+
+###### Dia 93
+
+###### Dia 94
+
+###### Dia 95
+
+###### Dia 96
+
+###### Dia 97
+
+###### Dia 98
+
+###### Dia 99
+
+###### Dia 100
+
 🏆 Resumo dos dias 91 a 100: 
 </details>
 
@@ -212,7 +309,7 @@ início: 20/10/2023 | fim previsto: 27/01/2024
 - Visual Studio Code
 - Github
 
-## 💡Referências
+## 💡 Referências
 
 📂 Repositórios
 
