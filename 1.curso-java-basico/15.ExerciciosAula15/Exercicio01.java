@@ -15,5 +15,5 @@ public class Exercicio01{
         } else {// além do solicitado
             System.out.println("Os numeros digitados sao iguais");
         }
-    }
-}// Revisado em 29/10/2023
+    }  
+}//revisado 29/10/2023

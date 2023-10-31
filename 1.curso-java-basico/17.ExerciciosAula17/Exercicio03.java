@@ -70,4 +70,4 @@ public class Exercicio03 {
         System.out.println("Nome : " +  nome + "\nIdade: " + idade +
         "\nSalario: " + salario + "\nSexo: " + sexo + "\nEstado Civil: " + estadoCivil);
     }
-}
+}//revisado 31/10/2023

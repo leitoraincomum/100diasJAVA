@@ -21,4 +21,4 @@ public class Exercicio08 {
         "\nA media deles eh: " + soma/2);
     }
     
-}
+}//revisado 31/10/2023

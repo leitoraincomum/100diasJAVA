@@ -158,4 +158,4 @@ Picanha         R$ 6,90 por Kg          R$ 7,80 por Kg
 
 - [Fonte - Wiki Python](https://wiki.python.org.br/EstruturaDeDecisao)
 - [PDF Loiane dos exercícios](https://github.com/loiane/curso-java-basico/blob/master/exercicios/Exercicios%20Aulas%2014%2015.pdf)
-- Revisado em 29/10/2023
+- Revisado em 30/10/2023

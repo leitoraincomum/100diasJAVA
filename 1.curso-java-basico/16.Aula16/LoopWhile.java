@@ -9,4 +9,4 @@ public class LoopWhile{
             i++; // i = i + 1; ou i += 1;
         }
     }
-}
+}//revisão 31/10/2023

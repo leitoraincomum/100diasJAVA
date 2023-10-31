@@ -17,4 +17,4 @@ public class Exercicio02 {
             senha = scan.next();
         }
     }   
-}
+}//revisado 31/10/2023

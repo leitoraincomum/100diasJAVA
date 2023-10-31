@@ -17,4 +17,4 @@ public class Exercicio04 {
         System.out.println("Populacao A: " + popA + "\nPopulacao B: " + popB + "\nEm " + cont + " anos");
     }
     
-}
+}//revisado 31/10/2023

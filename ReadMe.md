@@ -57,11 +57,11 @@ início: 20/10/2023 | fim previsto: 27/01/2024
 
 ###### Dia 09
 - Revisão das aulas 12 e 13 do curso [JAVA básico](https://loiane.training/curso/java-basico).
-- Temas vistos: Leitura de dados do teclado com a classe Scanner. Operadores lógicos, aritiméticos, relacionais e assignment. Conceito da tabela verdade, curto circuito e ordem de precedência. Exercícios de fixação de conceitos vistos.
+- Temas vistos: Leitura de dados do teclado com a classe Scanner. Operadores lógicos, aritiméticos, relacionais e assignment. Conceito da tabela verdade, curto circuito e ordem de precedência. Revisão dos exercícios de fixação de conceitos vistos.
 
 ###### Dia 10
 - Revisão das aulas 14 e 15 do curso [JAVA básico](https://loiane.training/curso/java-basico).
-- Temas vistos: Condicionais if-else e switch-case. Exercícios de fixação de conceitos vistos.
+- Temas vistos: Condicionais if-else e switch-case. Revisão dos exercícios de fixação de conceitos vistos.
 
 🏆 Resumo dos dias 01 a 10: [Dev.to](https://dev.to/leitoraincomum/100-dias-de-java-dias-1-a-10-1j3m)
 </details>
@@ -75,6 +75,8 @@ início: 20/10/2023 | fim previsto: 27/01/2024
 - Temas vistos: Condicionais if-else e switch-case.
 
 ###### Dia 12
+- Revisão das aulas 16 e 17 do curso [JAVA básico](https://loiane.training/curso/java-basico).
+- Temas vistos: Estruturas de repetição while, do-while e for. Revisão dos exercícios de fixação de conceitos vistos de 1 a 10.
 
 ###### Dia 13
 

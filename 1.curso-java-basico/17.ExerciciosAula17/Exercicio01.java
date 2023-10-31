@@ -15,4 +15,4 @@ public class Exercicio01 {
             nota = scan.nextDouble();
         }
     }    
-}
+}//revisado 31/10/2023

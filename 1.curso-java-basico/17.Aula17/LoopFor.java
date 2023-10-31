@@ -9,7 +9,7 @@ public class LoopFor {
             System.out.println("i tem valor: " + i);
         }
         //mais de uma variavel
-        for(int i = 0, j=10; i < j; i++, j--) {
+        for(int i = 0, j = 10; i < j; i++, j--) {
             System.out.println("i = " + i + " e j = " + j);
         }
         //com partes ausentes
@@ -39,4 +39,4 @@ public class LoopFor {
         //loop melhorado utilizado com arrays
     }
     
-}
+}//revisão 31/10/2023
