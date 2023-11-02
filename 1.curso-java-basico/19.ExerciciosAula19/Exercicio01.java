@@ -18,14 +18,14 @@ public class Exercicio01 {
         for (int i = 0; i < vetB.length; i++){
             vetB[i] = vetA[i];}
         
-        System.out.println("\n** Elementos vetor A **");
+        System.out.println("\n*** Elementos vetor A ***");
         for (int i = 0; i < vetA.length; i++){
             System.out.println(" Item " + (i + 1) + " vetor A : " + vetA[i]);
         }
 
-        System.out.println("\n** Elementos vetor B **");
+        System.out.println("\n*** Elementos vetor B ***");
         for (int i = 0; i < vetB.length; i++) {
-            System.out.println(" Item " + (i + 1) + " vetor B : " + vetB[i]);
+            System.out.print("\n Item " + (i + 1) + " vetor B : " + vetB[i]);
         }
    }
-   }   
+}//revisado 02/11/2023

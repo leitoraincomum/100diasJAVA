@@ -63,7 +63,7 @@ início: 20/10/2023 | fim previsto: 27/01/2024
 - Revisão das aulas 14 e 15 do curso [JAVA básico](https://loiane.training/curso/java-basico).
 - Temas vistos: Condicionais if-else e switch-case. Revisão dos exercícios de fixação de conceitos vistos.
 
-🏆 Resumo dos dias 01 a 10: [Dev.to](https://dev.to/leitoraincomum/100-dias-de-java-dias-1-a-10-1j3m)
+###### 🏆 Resumo dos dias 01 a 10: [Dev.to](https://dev.to/leitoraincomum/100-dias-de-java-dias-1-a-10-1j3m)
 </details>
 
 <details>
@@ -76,13 +76,15 @@ início: 20/10/2023 | fim previsto: 27/01/2024
 
 ###### Dia 12
 - Revisão das aulas 16 e 17 do curso [JAVA básico](https://loiane.training/curso/java-basico).
-- Temas vistos: Estruturas de repetição while, do-while e for. Revisão dos exercícios de fixação de conceitos vistos.
+- Temas vistos: Estruturas de repetição while, do-while e for. Início da revisão dos exercícios de fixação de conceitos vistos.
 
 ###### Dia 13
 - Revisão da correção dos exercícios das aulas 16 e 17 do curso [JAVA básico](https://loiane.training/curso/java-basico).
 - Temas vistos: Término da revisão dos exercícios de fixação dos últimos conceitos vistos.
 
 ###### Dia 14
+- Revisão das aulas 18 e 19 do curso [JAVA básico](https://loiane.training/curso/java-basico).
+- Temas vistos: Comandos Break e Continue. Vetores (Arrays). Início da revisão dos exercícios de fixação de conceitos vistos até o exercício 10.
 
 ###### Dia 15
 
@@ -315,26 +317,28 @@ início: 20/10/2023 | fim previsto: 27/01/2024
 
 ## 💡 Referências
 
-📂 Repositórios
+### 📂 Repositórios
 
 - [Gabrielsilvaa](https://github.com/Gabrielsilvaa/100-Dias-de-Java-para-iniciantes-)
 - [rosacarla](https://github.com/rosacarla/100-days-of-code-challenge-Java)
 - [Loiane - Curso JAVA básico](https://github.com/loiane/curso-java-basico)
 
-📄 Cursos
+### 📄 Cursos
 - [Loiane - Cursos com certificado](https://loiane.training)
 
 
-🎥 Vídeos
+### 🎥 Vídeos
 - [[Playlist] 100 Dias de Java Para Iniciantes](https://www.youtube.com/playlist?list=PL2e_bCYJql2cn0S-fXTBoOMeP_ymSwDDD)
 - [[Playlist] Curso de Java Básico - Loiane](https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r)
+- [[Playlist] Curso de Java Intermediário - Loiane](https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBoqYyFWOV_YbfBW80YGAGEI)
 
-🎯 IDEs citadas nos cursos
+
+### 🎯 IDEs citadas nos cursos
 - Eclipse
 - Netbeans
 - Intellij IDEA
 
-📍 Outros conteúdos
+### 📍 Outros conteúdos
 - [Formatação Github Markdown](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#further-reading)
 - [Formatação avançada](https://docs.github.com/pt/get-started/writing-on-github/working-with-advanced-formatting)
 - [Como usar emojis GitHub](https://github.com/StylishThemes/GitHub-Custom-Emojis)

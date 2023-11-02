@@ -1,4 +1,4 @@
-## 🎯 Lista de Exercícios aulas 14 e 15
+## 🎯 Lista de Exercícios Aulas 14 e 15
 
 ```
 1. Faça um Programa que peça dois números e imprima o maior deles.

@@ -1,7 +1,7 @@
 public class BreakComRotulos {
     public static void main(String[] args) {
         //rotulos ou labels
-        for (int i = 0; i < 10; i++) {
+        for (int i = 0; i < 5; i++) {
             rotulo1: {
                 rotulo2: {
                     rotulo3: {
@@ -16,6 +16,6 @@ public class BreakComRotulos {
             }
             System.out.println("valor de i: " + i);
         }
-        System.out.println("Saiu do loop.");
+        System.out.println("Saiu do loop!");
     }    
-}
+}//revisado 02/11/2023

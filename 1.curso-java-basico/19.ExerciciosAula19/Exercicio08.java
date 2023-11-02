@@ -5,15 +5,17 @@ public class Exercicio08 {
          * Construir um vetor C, onde cada elemento de C é a multiplicação dos 
          * respectivos elementos em A e B, ou seja:C[i] = A[i] * B[i] */
         Scanner scan = new Scanner(System.in);
-        int vetA[] = new int[10], vetB[] = new int[10], vetC[] = new int[10];
+        int vetA[] = new int[10], vetB[] = new int[vetA.length], vetC[] = new int[vetB.length];
         
-        System.out.println("** Multiplicacao dos Vetores A e B **");
+        System.out.println("**/ Multiplicacao dos Vetores A e B /**");
+        System.out.println("\n** Digite os valores do vetor A **");
         for (int i = 0; i < vetA.length; i++) {
             System.out.print("Digite a posicao " + (i + 1) + " do vetor A: ");
             vetA[i] =  scan.nextInt();
         }
 
-        for (int i = 0; i < vetA.length; i++) {
+        System.out.println("\n** Digite os valores do vetor B **");
+        for (int i = 0; i < vetB.length; i++) {
             System.out.print("Digite a posicao " + (i + 1) + " do vetor B: ");
             vetB[i] =  scan.nextInt();
             vetC[i] = vetA[i] * vetB[i];
@@ -24,4 +26,4 @@ public class Exercicio08 {
             System.out.println("A posicao " + (i + 1) + " do vetor C eh : " + vetC[i]);
         }
     }
-}
+}//revisado 02/11/2023
