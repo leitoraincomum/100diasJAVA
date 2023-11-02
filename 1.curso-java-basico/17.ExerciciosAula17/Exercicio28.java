@@ -7,7 +7,7 @@ public class Exercicio28 {
          * quantidade de CDs e o valor para em cada um.*/
         Scanner scan = new Scanner(System.in);
         System.out.println("** Media gasta com CDs **");
-        System.out.print("Digite a quantidade de CDs:' ");
+        System.out.print("Digite a quantidade de CDs: ");
         int qtdCD = scan.nextInt();
         double preco, soma = 0;
 
@@ -16,7 +16,8 @@ public class Exercicio28 {
             preco = scan.nextInt();
             soma += preco;
         }
-
-        System.out.println("A media de preco dos CDs : " + (soma/qtdCD));
+        
+        double mediaPrecos = soma/qtdCD;
+        System.out.println("A media de preco dos CDs : " + mediaPrecos);
     }    
-}
+}//revisado 01/11/2023

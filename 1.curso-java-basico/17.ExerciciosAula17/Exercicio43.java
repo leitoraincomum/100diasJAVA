@@ -28,47 +28,47 @@ public class Exercicio43 {
         
         do {
             
-            System.out.print("Digite o codigo do produto e a quantidade.(Ou digite 0 0 para sair): ");
+            System.out.print("Digite o codigo do produto e a quantidade.\n(Ou digite 0 0 para sair): ");
             cod = scan.nextInt();
             qtd = scan.nextInt();
             
             if (cod == 0 && qtd == 0){
                 naoTerminar = false;
-                output += "Total a pagar = " + total;
+                output += "Total a pagar: R$ " + total;
             } else {
                 switch (cod){
                 case 100:
                     output += "Cachorro Quente -> 1,20 * " + qtd ;
-                    output += " = " + (1.2*qtd) + "\n";
-                    total += 1.2*qtd;
+                    output += " = " + (1.2 * qtd) + "\n";
+                    total += 1.2 * qtd;
                     break;
                 case 101:
                     output += "Bauru Simples -> 1,30 * " + qtd ;
-                    output += " = " + (1.3*qtd) + "\n";
-                    total += 1.3*qtd;
+                    output += " = " + (1.3 * qtd) + "\n";
+                    total += 1.3 * qtd;
                     break;
                 case 102:
                     output += "Bauru com ovo -> 1,50 * " + qtd ;
-                    output += " = " + (1.5*qtd) + "\n";
-                    total += 1.5*qtd;
+                    output += " = " + (1.5 * qtd) + "\n";
+                    total += 1.5 * qtd;
                     break;
                 case 103:
                     output += "Hambúrguer -> 1,20 * " + qtd ;
-                    output += " = " + (1.2*qtd) + "\n";
-                    total += 1.2*qtd;
+                    output += " = " + (1.2 * qtd) + "\n";
+                    total += 1.2 * qtd;
                     break;
                 case 104:
                     output += "Cheeseburguer -> 1,30 * " + qtd ;
-                    output += " = " + (1.3*qtd) + "\n";
-                    total += 1.3*qtd;
+                    output += " = " + (1.3 * qtd) + "\n";
+                    total += 1.3 * qtd;
                     break;
                 case 105:
                     output += "Refrigerante -> 1,00 * " + qtd ;
-                    output += " = " + (1*qtd) + "\n";
-                    total += 1*qtd;
+                    output += " = " + (1 * qtd) + "\n";
+                    total += 1 * qtd;
                     break;
                 default:
-                    System.out.println("Codigo invalido, tente novamente.");
+                    System.out.println("Codigo invalido, tente novamente!");
                 }
             }
             
@@ -76,4 +76,4 @@ public class Exercicio43 {
         
         System.out.println(output);
     }    
-}
+}//revisado 01/11/2023

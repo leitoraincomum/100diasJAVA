@@ -7,10 +7,10 @@ public class Exercicio13 {
         Scanner scan = new Scanner(System.in);
 
         System.out.println("** Calculo de potencia **");
-        System.out.print("Digite o numero base: ");
+        System.out.print("Digite o numero da base: ");
         int base = scan.nextInt();
 
-        System.out.print("Digite seu expoente: ");
+        System.out.print("Digite o numero do expoente: ");
         int expoente = scan.nextInt();
 
         int calculo = 1;
@@ -21,4 +21,4 @@ public class Exercicio13 {
 
         System.out.println("Resultado: " + calculo);
     }    
-}
+}//revisado 01/11/2023

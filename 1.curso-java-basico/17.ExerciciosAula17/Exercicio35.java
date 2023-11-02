@@ -23,8 +23,8 @@ public class Exercicio35 {
             }
 
             if (primo){
-                System.out.println(i + " eh um numero primo");
+                System.out.print(i + " ");
             }
         }
     }    
-}
+}//revisado 01/11/2023

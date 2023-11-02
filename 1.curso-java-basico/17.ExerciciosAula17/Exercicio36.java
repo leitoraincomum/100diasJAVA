@@ -41,11 +41,11 @@ public class Exercicio36 {
         } while (invalido);
         
         
-        System.out.println("Tabuada de " + num + ", comecando por " + numInicio + 
-        " e terminando em " + numFinal);
+        System.out.println("Tabuada de " + num + ", iniciando por " + numInicio + 
+        " e finalizando em " + numFinal);
         
-        for (int i=numInicio; i<=numFinal; i++){
+        for (int i = numInicio; i <= numFinal; i++){
             System.out.println(num + " x " + i + " = " + (num * i));
         }
     }    
-}
+}//revisado 01/11/2023

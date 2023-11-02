@@ -12,9 +12,34 @@ public class Exercicio02 {
         System.out.println("Digite a senha: ");
         senha = scan.next();
 
-        while (usuario.equals(senha)) {
+        while (usuario.equalsIgnoreCase(senha)) {
             System.out.println("Digite uma senha diferente do usuario");
             senha = scan.next();
         }
+        
+        /*Exemplo Loiane
+         foValidas = false;
+        String nomeUser;
+        String senha;
+        
+        do {
+            
+            System.out.println("Entre com o nome do usuário:");
+            nomeUser = scan.next();
+            
+            System.out.println("Entre com a senha:");
+            senha = scan.next();
+            
+            if (nomeUser.equalsIgnoreCase(senha)){
+                //infoValidas = false;
+                System.out.println("Senha igual a usuário, digite novamente.");
+            } else {
+                infoValidas = true;
+                System.out.println("Senha e usuários válidos.");
+            }
+            
+        } while (!infoValidas);
+
+         */
     }   
 }//revisado 31/10/2023

@@ -76,9 +76,11 @@ início: 20/10/2023 | fim previsto: 27/01/2024
 
 ###### Dia 12
 - Revisão das aulas 16 e 17 do curso [JAVA básico](https://loiane.training/curso/java-basico).
-- Temas vistos: Estruturas de repetição while, do-while e for. Revisão dos exercícios de fixação de conceitos vistos de 1 a 10.
+- Temas vistos: Estruturas de repetição while, do-while e for. Revisão dos exercícios de fixação de conceitos vistos.
 
 ###### Dia 13
+- Revisão da correção dos exercícios das aulas 16 e 17 do curso [JAVA básico](https://loiane.training/curso/java-basico).
+- Temas vistos: Término da revisão dos exercícios de fixação dos últimos conceitos vistos.
 
 ###### Dia 14
 

@@ -14,5 +14,25 @@ public class Exercicio01 {
             System.out.println("Valor invalido \nDigite uma nota entre 0 e 10");
             nota = scan.nextDouble();
         }
+
+        System.out.println("Você digitou: " + nota);
+
+        /* Exemplo Loiane
+          do {
+           
+            System.out.println("Entre com uma nota");
+        
+            double nota = scan.nextDouble();
+
+            if (nota >=0 && nota <= 10){
+                notaValida = true;
+                System.out.println("Você digitou: " + nota);
+            } else {
+                //notaValida = false;
+                System.out.println("Nota inválida, digite novamente.");
+            }
+            
+        } while (!notaValida);
+         */
     }    
 }//revisado 31/10/2023

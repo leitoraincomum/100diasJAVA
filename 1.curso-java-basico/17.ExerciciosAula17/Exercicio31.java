@@ -59,7 +59,7 @@ public class Exercicio31 {
                     
                     troco = valorPago - total;
                     
-                    output += "Troco: R$ " + troco;
+                    output += "Troco R$ " + troco;
                     
                     System.out.println(output);
                     
@@ -70,4 +70,4 @@ public class Exercicio31 {
             }while(!sair);
 
             }    
-}
+}//revisado 01/11/2023

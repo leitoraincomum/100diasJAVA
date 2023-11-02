@@ -7,7 +7,7 @@ public class Exercicio34 {
          * inteiro e determine se ele é ou não um número primo.*/
         Scanner scan = new Scanner(System.in);
         
-        System.out.println("** Numero primo **");
+        System.out.println("*** Numero primo ***");
         System.out.print("Entre com um numero para saber se eh primo: ");
         int num = scan.nextInt();
         
@@ -25,4 +25,4 @@ public class Exercicio34 {
         }
         
     }    
-}
+}//revisado 01/11/2023

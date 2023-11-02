@@ -19,6 +19,6 @@ public class Exercicio15 {
             fibonacci = fibonacci + proximo + " ";
         }
 
-        System.out.println("Os "  + n  + "primeiros numeros da serie Fibonacci - " + fibonacci);
+        System.out.println("Os "  + n  + " primeiros numeros da serie Fibonacci - " + fibonacci);
     }
-}
+}//revisado 01/11/2023

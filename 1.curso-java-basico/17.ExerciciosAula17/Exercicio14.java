@@ -13,12 +13,12 @@ public class Exercicio14 {
             num = scan.nextInt();
 
             if(num%2 == 0) {
-                par +=1;
+                par ++;
             } else {
                 impar++;
             }
         }
 
-        System.out.println("Foram digitados " + par + " pares e " + impar + " impares");
+        System.out.println("Foram digitados " + par + " pares e " + impar + " impares!");
     }    
-}
+}//revisado 01/11/2023

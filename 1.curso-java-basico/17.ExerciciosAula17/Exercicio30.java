@@ -12,14 +12,12 @@ public class Exercicio30 {
         2 - R$ 0.36
         ...
         50 - R$ 9.00*/
-        Scanner scan = new Scanner(System.in);
-
+ 
         System.out.println("** Tabela de precos - Pao de ontem **");
-        System.out.print("Digite quantos paes deseja comprar: ");
-        int qtdPaes = scan.nextInt();
+        System.out.print("Preço do pão - R$ 0,18 ");
 
-        for (int i = 1; i <= qtdPaes; i++) {
-            System.out.println(i + " - R$ " + (0.18 * i));
+        for (int i = 1; i <= 50; i++) {
+            System.out.println(i + " por R$ " + (0.18 * i));
         }
     }    
-}
+}//revisado 01/11/2023

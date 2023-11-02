@@ -21,13 +21,13 @@ public class Exercicio05 {
 
         valido = false;
         do{
-            System.out.println("Entre com a taxa da populacao B: ");
+            System.out.println("Entre com a taxa da populacao A: ");
             taxaA = scan.nextDouble();
             
             if (taxaA > 0) {
                 valido = true;
             } else {
-                System.out.println("Taxa da populacao B precisa ser maior que 0.");
+                System.out.println("Taxa da populacao A precisa ser maior que 0.");
             }
         }while(!valido);
 
@@ -56,7 +56,7 @@ public class Exercicio05 {
         }while(!valido);
 
         int cont = 0;
-        while(popA < popB) {
+        while(popA <= popB) {
             popA += (popA/100) * taxaA;
             popB += (popB/100) * taxaB;
             cont++;

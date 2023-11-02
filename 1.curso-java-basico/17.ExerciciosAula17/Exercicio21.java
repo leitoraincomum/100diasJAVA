@@ -18,10 +18,9 @@ public class Exercicio21 {
         }
 
         if (primo == false){
-            System.out.println("Nao eh um numero primo");
+            System.out.println("Nao eh um numero primo!");
         }else{
-            System.out.println("Eh um numero primo");
+            System.out.println("Eh um numero primo!");
         }
     }
-    
-}
+}//revisado 01/11/2023

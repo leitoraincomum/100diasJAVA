@@ -4,7 +4,7 @@ public class Exercicio17 {
         /**17. Faça um programa que calcule o fatorial de um número inteiro 
          * fornecido pelo usuário. Ex.: 5!=5.4.3.2.1=120.*/
         Scanner scan = new Scanner(System.in);
-        System.out.print("** Calculo do Fatorial **\nDigite o numero para calculo do fatorial: ");
+        System.out.print("*** Calculo do Fatorial ***\nDigite o numero para calculo do fatorial: ");
         int numero = scan.nextInt();
 
         int fatorial = 1;
@@ -13,6 +13,6 @@ public class Exercicio17 {
             fatorial *= i;
         }
 
-        System.out.println("O fatorial de " + numero + " eh: " + fatorial);
+        System.out.println("O fatorial de " + numero + " eh - " + fatorial);
     }    
-}
+}//revisado 01/11/2023

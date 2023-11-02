@@ -26,9 +26,9 @@ public class Exercicio33 {
                 menor = temp;
             }
         }
-        
+        double mediaTemperaturas = soma/qtdTemperaturas;
         System.out.println("A menor temperatura digitada foi: " + menor + 
-        ", a maior temperatura digitada foi: " + maior + 
-        " e a media das temperaturas eh: " + (soma/qtdTemperaturas));
+        "\nA maior temperatura digitada foi: " + maior + 
+        "\nA media das temperaturas eh: " + mediaTemperaturas);
     }    
-}
+}//revisado 01/11/2023

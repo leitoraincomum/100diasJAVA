@@ -8,7 +8,7 @@ public class Exercicio04 {
         int popA = 80000, popB = 200000, cont = 0;
         System.out.println("** Populacao A e Populacao B **");
 
-        while(popA < popB) {
+        while(popA <= popB) {
             popA += (popA/100) * 3;
             popB += (popB/100) * 1.5;
             cont++;

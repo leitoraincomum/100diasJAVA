@@ -7,7 +7,7 @@ public class Exercicio32 {
             Fatorial de: 5
             5! =  5 . 4 . 3 . 2 . 1 = 120 */
             Scanner scan = new Scanner(System.in);
-            System.out.println("** Calculo de fatorial ");
+            System.out.println("*** Calculo de fatorial ***");
             System.out.print("Digite um numero: ");
             int num = scan.nextInt();
             
@@ -21,4 +21,4 @@ public class Exercicio32 {
             
             System.out.print("1 = " + fatorial);
     }    
-}
+}//revisado 01/11/2023

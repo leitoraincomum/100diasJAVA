@@ -15,5 +15,19 @@ public class Exercicio07 {
         }
 
         System.out.println("O maior numero digitado foi: " + maior);
+
+        /*Exemplo Loiane
+ for (int i=0; i<5; i++){
+            
+            System.out.println("Entre com um número:");
+            num = scan.nextInt();
+            
+            if (num > maior){
+                maior = num;
+                System.out.println("o número maior mudou: " + maior);
+            }
+        }
+ */
+
     }    
 }//revisado 31/10/2023

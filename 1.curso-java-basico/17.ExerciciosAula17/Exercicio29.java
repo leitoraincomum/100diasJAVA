@@ -18,7 +18,7 @@ public class Exercicio29 {
         System.out.println("** Tabela de precos - Lojas Quase Dois **");
 
         for (int i = 1; i <= 50; i++) {
-            System.out.println(i + " - R$ " + (1.99 * i));
+            System.out.println(i + " por  R$ " + (1.99 * i));
         }
     }    
-}
+}//revisado 01/11/2023

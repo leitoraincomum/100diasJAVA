@@ -15,7 +15,7 @@ public class Exercicio38 {
         //formato do valor com uso da biblioteca
         DecimalFormat format = new DecimalFormat("###,###.##");
 
-        System.out.println("** Valores de aumento anual **");
+        System.out.println("** Valores de aumento anual de salário **");
         System.out.print("Digite o salario inicial do funcionario: ");
         double salario = scan.nextDouble();
 
@@ -34,4 +34,4 @@ public class Exercicio38 {
             format.format(salario) + " - com percentual de " + percentual + "%");
         }
     }   
-}
+}//revisado 01/11/2023

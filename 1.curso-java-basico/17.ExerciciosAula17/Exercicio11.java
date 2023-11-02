@@ -3,12 +3,13 @@ public class Exercicio11 {
     public static void main(String[] args) {
         //Altere o programa anterior para mostrar no final a soma dos números.
         Scanner scan = new Scanner(System.in);
-        int num1,num2,soma = 0;
+        int soma = 0;
         
         System.out.print("**Soma do intervalo entre numeros **\nDigite o primeiro numero: ");
-        num1 = scan.nextInt();
+        int num1 = scan.nextInt();
+
         System.out.print("Digite o segundo numero: ");
-        num2 = scan.nextInt();
+        int num2 = scan.nextInt();
 
         if(num1 > num2){
             for(int i = num2 + 1 ; i < num1; i++){
@@ -25,6 +26,5 @@ public class Exercicio11 {
         }else if (num2 == num1){
             System.out.println("Os numeros digitados sao iguais");
         }
-    }
-    
-}
+    }    
+}//revisado 01/11/2023

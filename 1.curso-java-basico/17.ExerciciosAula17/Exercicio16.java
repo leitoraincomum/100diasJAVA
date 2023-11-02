@@ -17,7 +17,7 @@ public class Exercicio16 {
         }while(proximo < 500);
     
 
-        System.out.println("Os primeiros numeros da serie Fibonacci " + fibonacci);
+        System.out.println("Os primeiros numeros da serie Fibonacci - " + fibonacci);
     
     }    
-}
+}//revisado 01/11/2023

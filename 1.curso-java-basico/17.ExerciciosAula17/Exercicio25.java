@@ -18,14 +18,16 @@ public class Exercicio25 {
             idade = scan.nextInt();
             soma += idade;
         }
+
+         double mediaIdades = soma/pessoas;
         
-        if (soma/pessoas >= 0 && soma/pessoas <= 25){
-            System.out.println("Grupo de pessoas jovens");
-        }else if(soma/pessoas >= 26 && soma/pessoas <= 60){
-            System.out.println("Grupo de pessoas adultas");
+        if (mediaIdades >= 0 && mediaIdades <= 25){
+            System.out.println("Grupo de pessoas jovens!");
+        }else if(mediaIdades >= 26 && mediaIdades <= 60){
+            System.out.println("Grupo de pessoas adultas!");
         }else {
-            System.out.println("Grupo de pessoas idosas");
+            System.out.println("Grupo de pessoas idosas!");
         }
     }
     
-}
+}//revisado 01/11/2023

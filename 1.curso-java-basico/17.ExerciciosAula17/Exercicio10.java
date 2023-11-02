@@ -4,12 +4,12 @@ public class Exercicio10 {
         /*10. Faça um programa que receba dois números inteiros e gere os números 
         inteiros que estão no intervalo compreendido por eles. */
         Scanner scan = new Scanner(System.in);
-        int num1,num2;
         
         System.out.print("** Intervalo entre numeros **\nDigite o primeiro numero: ");
-        num1 = scan.nextInt();
+        int num1 = scan.nextInt();
+        
         System.out.print("Digite o segundo numero: ");
-        num2 = scan.nextInt();
+        int num2 = scan.nextInt();
 
         if(num1 > num2){
             for(int i = num2 + 1 ; i < num1; i++){

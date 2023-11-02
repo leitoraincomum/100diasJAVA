@@ -15,8 +15,9 @@ public class Exercicio24 {
             soma +=nota;
         }
 
-        System.out.print("Soma das notas: " + soma);
-        System.out.print("\nMedia das notas: " + (soma/qtdNotas));
+        System.out.print("Soma das notas digitadas: " + soma);
+        double media = soma/qtdNotas;
+        System.out.print("\nMedia das notas: " + media);
     }
     
-}
+}//revisado 01/11/2023

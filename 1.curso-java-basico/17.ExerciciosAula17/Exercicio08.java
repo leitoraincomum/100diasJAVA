@@ -3,22 +3,20 @@ public class Exercicio08 {
     public static void main(String[] args) {
         //8. Faça um programa que leia 5 números e informe a soma e a média dos números.
         Scanner scan = new Scanner(System.in);
-        int num, maior = Integer.MIN_VALUE;
-        double soma = 0;
+        int num, soma = 0;
+        double media;
         System.out.println("** Ler 5 numeros, mostrar soma e media **");
 
         for (int i = 1; i < 6; i++) {
             System.out.print("Digite o " + i + "o numero : ");
             num = scan.nextInt();
-            soma = soma + num;
-
-            if (num > maior) {
-                maior = num;
-            }
+            soma += num;
         }
 
-        System.out.println("O maior numero digitado foi: " + maior + "\nA soma deles eh: " + soma + 
-        "\nA media deles eh: " + soma/2);
+        media = soma/5;
+
+        System.out.println("A soma dos numeros digitados eh: " + soma + 
+        "\nA media deles eh: " + media);
     }
     
 }//revisado 31/10/2023

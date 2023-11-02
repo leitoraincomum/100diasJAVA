@@ -27,7 +27,9 @@ public class Exercicio27 {
             }while(!valido);
             somaAlunos += qtdAlunos;
         }
+        
+        double mediaAlunos = somaAlunos/turmas;
 
-        System.out.println("O numero medio de alunos por tumas eh " + (somaAlunos/turmas));
+        System.out.println("O numero medio de alunos por tumas eh " + mediaAlunos);
     }    
-}
+}//revisado 01/11/2023
