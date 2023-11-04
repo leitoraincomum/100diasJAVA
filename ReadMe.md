@@ -87,6 +87,8 @@ início: 20/10/2023 | fim previsto: 27/01/2024
 - Temas vistos: Comandos Break e Continue. Vetores (Arrays). Início da revisão dos exercícios de fixação de conceitos vistos até o exercício 10.
 
 ###### Dia 15
+- Revisão da correção dos exercícios da aula 19 do curso [JAVA básico](https://loiane.training/curso/java-basico).
+- Temas vistos: Continuação da revisão dos exercícios de fixação dos últimos conceitos vistos até exercício 22.
 
 ###### Dia 16
 

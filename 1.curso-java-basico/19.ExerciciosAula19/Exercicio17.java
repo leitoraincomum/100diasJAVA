@@ -16,6 +16,6 @@ public class Exercicio17{
             }
         }
 
-        System.out.println("Foram digitadas " + qtd + " idades acima de 35");
+        System.out.println("Foram digitadas " + qtd + " idades acima de 35.");
     }
-}
+}//revisado 03/11/2023

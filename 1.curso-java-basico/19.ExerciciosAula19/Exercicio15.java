@@ -9,7 +9,7 @@ public class Exercicio15{
         
         System.out.println("** Qual a porcentagem de numeros pares e impares **");
 
-        for (int i=0; i<vetA.length; i++){
+        for (int i = 0; i < vetA.length; i++){
             System.out.print("Digite a posicao " + (i + 1) + " do vetor A: ");
             vetA[i] = scan.nextInt();
         }
@@ -27,6 +27,7 @@ public class Exercicio15{
         //par           - x
         //= x*vetorA.length == par * 100
         //= x == (par * 100)/vetorA.length
+
         double porcetagemPar = (par * 100)/vetA.length;
         double porcetagemImpar = 100 - porcetagemPar;
         
@@ -35,7 +36,7 @@ public class Exercicio15{
             System.out.print(vetA[i] + " ");
         }
         
-        System.out.println("\nA porcentagem de numeros pares eh " + porcetagemPar + 
-        " e a porcentagem impares eh " + porcetagemImpar);
+        System.out.println("\nA porcentagem de numeros pares eh: " + porcetagemPar + 
+        "\nA porcentagem impares eh " + porcetagemImpar);
     }
-}
+}//revisado 03/11/2023

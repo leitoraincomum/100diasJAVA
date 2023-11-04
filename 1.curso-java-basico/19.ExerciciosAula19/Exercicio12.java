@@ -13,6 +13,6 @@ public class Exercicio12 {
             vetA[i] =  scan.nextInt();
             soma = soma + vetA[i];      
         }
-        System.out.println("A soma dos valores do vetor A: " + soma);
+        System.out.println("A soma dos valores do vetor A eh: " + soma);
     }
-}
+}//revisado 03/11/2023

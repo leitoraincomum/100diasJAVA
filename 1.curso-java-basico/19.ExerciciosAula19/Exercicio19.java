@@ -9,15 +9,15 @@ public class Exercicio19{
          * a situação de cada aluno. Se a média calculada for superior ou 
          * igual a 7 o aluno estará 'aprovado', caso contrário, a situação do aluno será 'reprovado'.. */
         Scanner scan = new Scanner(System.in);
-        double nota1[] = new double[10], nota2[] = new double[10], result[] = new double[10];
+        double notas1[] = new double[10], notas2[] = new double[notas1.length], result[] = new double[notas2.length];
 
         System.out.println("** Media de alunos - Aprovado / Reprovado **");
-        for (int i = 0; i < nota1.length; i++) {
+        for (int i = 0; i < notas1.length; i++) {
             System.out.print("Digite a primeira nota do  " + (i + 1) + "o aluno: ");
-            nota1[i] = scan.nextDouble();
+            notas1[i] = scan.nextDouble();
             System.out.print("Digite a segunda nota do  " + (i + 1) + "o aluno: ");
-            nota2[i] = scan.nextDouble();
-            result[i] = (nota1[i] + nota2[i])/2;
+            notas2[i] = scan.nextDouble();
+            result[i] = (notas1[i] + notas2[i])/2;
         }
 
         System.out.println("** RESULTADOS **");
@@ -29,4 +29,4 @@ public class Exercicio19{
             }
         }
     }
-}
+}//revisado 03/11/2023

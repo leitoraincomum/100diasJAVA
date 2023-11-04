@@ -26,7 +26,7 @@ public class Exercicio16{
             }
         }
         System.out.println("A soma dos elementos inferiores a 15 eh " + somaMenor15 + 
-        ", a quantidade de elementos iguais a  15 eh " + somaIgual15 + 
-        " e media dos numeros que sao maiores que 15 eh " + (somaMaior15/qtdMaior));
+        "\nA quantidade de elementos iguais a  15 eh " + somaIgual15 + 
+        "\nMedia dos numeros que sao maiores que 15 eh " + (somaMaior15/qtdMaior));
     }
-}
+}//revisado 03/11/2023

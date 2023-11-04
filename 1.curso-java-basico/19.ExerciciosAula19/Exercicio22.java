@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Exercicio21{
+public class Exercicio22{
     public static void main(String[] args){
         /**21. Gerar aleatoriamente um vetor A com 10 elementos inteiros e 
          * iguais a 0 e 1, sugestão: A[i] = (int)Math.round(Math.random() * 1); 
@@ -28,9 +28,10 @@ public class Exercicio21{
         double porc1 = (qtd1 * 100) / vetorA.length;
         
         System.out.print("Vetor A = ");
-        for (int i=0; i<vetorA.length; i++){
+        for (int i = 0; i < vetorA.length; i++){
             System.out.print(vetorA[i] + " ");
         }    
         System.out.println("\nPorcentagens de 0 = " + porc0);
         System.out.println("Porcentagens de 1 = " + porc1);
-    }}
+    }
+}//revisado 03/11/2023

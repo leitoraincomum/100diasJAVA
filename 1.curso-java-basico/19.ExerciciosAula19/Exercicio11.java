@@ -15,6 +15,6 @@ public class Exercicio11 {
                 contPar++;
             }
         }
-        System.out.println("Dentro do vetor A, existem " + contPar + " numeros que sao par");
+        System.out.println("Dentro do vetor A, existem " + contPar + " numeros que sao par.");
     }
-}
+}//revisado 03/11/2023

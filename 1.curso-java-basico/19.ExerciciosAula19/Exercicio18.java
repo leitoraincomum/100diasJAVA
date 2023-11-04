@@ -21,7 +21,7 @@ public class Exercicio18{
                 posicaoMaior = i;
             }
         }
-        System.out.println("A menor idade digitada foi  " + menorIdade + " na posicao " + posicaoMenor
-        + "\nA maior idade digitada foi " + maiorIdade +" na posicao " + posicaoMaior);
+        System.out.println("A menor idade digitada foi:  " + menorIdade + " na posicao " + posicaoMenor
+        + "\nA maior idade digitada foi: " + maiorIdade +" na posicao " + posicaoMaior);
     }
-}
+}//revisado 03/11/2023

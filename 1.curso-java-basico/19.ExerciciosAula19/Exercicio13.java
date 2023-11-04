@@ -11,10 +11,10 @@ public class Exercicio13 {
         for (int i = 0; i < vetA.length; i++) {
             System.out.print("Digite a posicao " + (i + 1) + " do vetor A: ");
             vetA[i] =  scan.nextInt();
-            if (vetA[i]%5 == 0) {
-                contMult5 = contMult5 + vetA[i];
+            if (vetA[i] % 5 == 0) {
+                contMult5 += vetA[i];
             }
         }
-        System.out.println("A soma dos numeros que sao multiplos de 5 eh igual a " + contMult5);
+        System.out.println("A soma dos numeros que sao multiplos de 5 eh: " + contMult5);
     }
-}
+}//revisado 03/11/2023
