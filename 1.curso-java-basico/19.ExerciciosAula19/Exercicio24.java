@@ -14,7 +14,7 @@ public class Exercicio24{
         boolean palindromo = true;
         
         System.out.println("** Verificar se numero digitado no vetor eh palindromo **");
-        for (int i=0; i<vetA.length; i++){            
+        for (int i = 0; i < vetA.length; i++){            
             System.out.print("Entre com um numero para a posicao " + i +  " : ");
             vetA[i] = scan.nextInt();            
         }
@@ -27,7 +27,7 @@ public class Exercicio24{
             }
         }
         
-        System.out.print("\nElementos digitados no vetor A = ");
+        System.out.print("\nElementos digitados no vetor A: ");
         for (int i = 0; i < vetA.length; i++){
             System.out.print(vetA[i] + " ");
         }
@@ -38,4 +38,4 @@ public class Exercicio24{
             System.out.println("\nNao eh palindromo");
         }
     }
-}
+}//revisado 04/11/2023

@@ -9,10 +9,12 @@ public class Exercicio25{
         Scanner scan = new Scanner(System.in);
         int vetA[] = new int[10], vetB[] = new int[10];
 
-        System.out.println("**Vetor B recebe 1 se par e 0 se impar em Vetor A **");
+        System.out.println("** Vetor B recebe 1 se par e 0 se impar em Vetor A **");
         for (int i = 0; i < vetA.length; i++){
             System.out.print(" Digite o valor da posicao " + (i + 1) + " do vetor: ");
             vetA[i] =  scan.nextInt();
+            /*ternario do bloco abaixo:
+             vetorB[i] = (vetorA[i] % 2 == 0) ? 1 : 0)*/
             if (vetA[i] % 2 == 0){
                 vetB[i] =  1;
             }else{
@@ -20,13 +22,13 @@ public class Exercicio25{
             }
         }
 
-        System.out.println("\nElementos do vetor A: ");
+        System.out.println("\n** Elementos do vetor A **");
         for (int i = 0; i < vetA.length; i++){
             System.out.print(vetA[i] + " ");
         }
-        System.out.println("\nElementos do vetor B: ");
+        System.out.println("\n** Elementos do vetor B **");
         for (int i = 0; i < vetB.length; i++){
             System.out.print(vetB[i] + " ");
         }
     }
-}
+}//revisado 04/11/2023

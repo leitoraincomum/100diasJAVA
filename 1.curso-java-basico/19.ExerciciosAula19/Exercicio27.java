@@ -11,7 +11,7 @@ public class Exercicio27{
          * e) Bi deverá receber 'e' quando Ai for maior que 10. Sugestão: char B[10]; */
         Scanner scan = new Scanner(System.in);
         int vetA[] = new int[10];
-        char vetB[] = new char[10];
+        char vetB[] = new char[vetA.length];
 
         System.out.println("** Vetores A e B ** \nB recebe: " + 
         "\n'a' quando A for menor que 7, " + 
@@ -44,4 +44,4 @@ public class Exercicio27{
             System.out.print(vetB[i] + " ");
         }
     }
-}
+}//revisado 04/11/2023

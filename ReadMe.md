@@ -91,6 +91,8 @@ início: 20/10/2023 | fim previsto: 27/01/2024
 - Temas vistos: Continuação da revisão dos exercícios de fixação dos últimos conceitos vistos até exercício 22.
 
 ###### Dia 16
+- Revisão da correção dos exercícios da aula 19 do curso [JAVA básico](https://loiane.training/curso/java-basico).
+- Temas vistos: Continuação da revisão dos exercícios de fixação dos últimos conceitos vistos até exercício 27.
 
 ###### Dia 17
 
