@@ -14,8 +14,7 @@ public class Exercicio34{
         }
         
         for (int i = 0; i < vetA.length; i++){
-            System.out.println("Analizando pares em relacao ao numero " + vetA[i]);
-            
+            System.out.println("\nAnalizando pares em relacao a 0 e ao numero " + vetA[i]);
             for (int j = 2; j < vetA[i]; j++){
                 if (j % 2 == 0){
                     System.out.println(j + " eh par");
@@ -23,4 +22,4 @@ public class Exercicio34{
             }
         }
     }
-}
+}//revisado 06/11/2023 (equivalente ao dia 05/11/2023 pois faltou luz)

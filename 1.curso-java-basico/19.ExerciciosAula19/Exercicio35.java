@@ -14,13 +14,13 @@ public class Exercicio35{
         }
         
         for (int i = 0; i < vetA.length; i++){
-            System.out.println("Analizando divisores em relacao ao numero " + vetA[i]);
+            System.out.println("\nAnalizando divisores em relacao 0 e ao numero " + vetA[i]);
             
             for (int j = 1; j < vetA[i]; j++){
                 if (vetA[i] % j == 0){
-                    System.out.println(j + " eh divisor");
+                    System.out.println(j + ": eh divisor");
                 }
             }
         }
     }
-}
+}//revisado 06/11/2023 (equivalente ao dia 05/11/2023 pois faltou luz)

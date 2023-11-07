@@ -7,7 +7,7 @@ public class Exercicio36{
          * A[i] = 2i. Sugestão int A[11]; */
         Scanner scan = new Scanner(System.in);
         double[] vetA = new double[11];
-        System.out.println("** Vetor A equivalente a 2 elevado a i **");
+        System.out.println("*** Vetor A equivalente a 2 elevado a i ***");
         
         for (int i = 0; i < vetA.length; i++){
             vetA[i] = Math.pow(2, i);
@@ -18,4 +18,4 @@ public class Exercicio36{
             System.out.print(vetA[i] + " ");
         }
     }
-}
+}//revisado 06/11/2023 (equivalente ao dia 05/11/2023 pois faltou luz)

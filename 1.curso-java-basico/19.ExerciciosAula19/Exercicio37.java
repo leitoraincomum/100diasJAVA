@@ -7,7 +7,7 @@ public class Exercicio37{
         Scanner scan = new Scanner(System.in);
         int[] vetA = new int[15], vetB = new int[vetA.length];
         
-        System.out.println("** Vetor B fatorial de vetor A **");
+        System.out.println("*** Vetor B fatorial de vetor A ***");
         for (int i = 0; i < vetA.length; i++){
             System.out.print("Digite a posicao " + (i + 1) + " do vetor A: ");
             vetA[i] = scan.nextInt();
@@ -30,4 +30,5 @@ public class Exercicio37{
             System.out.print(vetB[i] + " ");
         }
     }
-}
+    
+}//revisado 06/11/2023 (equivalente ao dia 05/11/2023 pois faltou luz)

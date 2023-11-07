@@ -8,18 +8,20 @@ public class Exercicio29{
          * C deverá ter o dobro de elementos de A e B, ou seja, 20 elementos.*/
         Scanner scan = new Scanner(System.in);
         int vetA[] = new int[10], vetB[] = new int[vetA.length], vetC[] = new int[vetB.length * 2];
-        System.out.println("**Vetor C recebe elementos dos vetores A e B**");
-
+        System.out.println("** Vetor C recebe elementos dos vetores A e B **");
+        
+        System.out.print("\n** Insira os valores do Vetor A **\n");
         for (int i = 0; i < vetA.length; i++) {
             System.out.print("Digite a posicao " + (i + 1) + " do vetor A: ");
             vetA[i] = scan.nextInt();
             vetC[i] = vetA[i];
         }
 
+        System.out.print("\n** Insira os valores do Vetor B **\n");
         for (int i = 0; i < vetB.length; i++) {
             System.out.print("Digite a posicao " + (i + 1) + " do vetor B: ");
             vetB[i] = scan.nextInt();
-            vetC[i + 10] = vetB[i];
+            vetC[i + vetA.length] = vetB[i];
         }
         System.out.println("\nElementos do vetor A: ");
         for (int i = 0; i < vetA.length; i++){
@@ -34,4 +36,4 @@ public class Exercicio29{
             System.out.print(vetC[i] + " ");
         }
     }
-}
+}//revisado 06/11/2023 (equivalente ao dia 05/11/2023 pois faltou luz)

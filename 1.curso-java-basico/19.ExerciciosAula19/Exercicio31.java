@@ -25,6 +25,7 @@ public class Exercicio31{
                 posB++;
             }
         }
+
         System.out.println("\nElementos do vetor A: ");
         for (int i = 0; i < vetA.length; i++){
             System.out.print(vetA[i] + " ");
@@ -34,4 +35,4 @@ public class Exercicio31{
             System.out.print(vetB[i] + " ");
     }
 }
-}
+}//revisado 06/11/2023 (equivalente ao dia 05/11/2023 pois faltou luz)

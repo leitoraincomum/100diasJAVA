@@ -6,7 +6,7 @@ public class Exercicio32{
          * elementos do vetor A.` */
         Scanner scan = new Scanner(System.in);
         int[] vetA = new int[5];
-        System.out.println("** Tabuada de cinco numeros **");
+        System.out.println("** Tabuada de cinco numeros digitados **");
         for (int i = 0; i < vetA.length; i++){
             System.out.print("Digite a posicao " + (i + 1) + " do vetor A: ");
             vetA[i] = scan.nextInt();
@@ -19,4 +19,4 @@ public class Exercicio32{
            }
         }
     }
-}
+}//revisado 06/11/2023 (equivalente ao dia 05/11/2023 pois faltou luz)

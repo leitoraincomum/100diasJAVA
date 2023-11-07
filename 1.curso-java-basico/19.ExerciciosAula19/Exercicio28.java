@@ -8,7 +8,7 @@ public class Exercicio28{
          * passa a ser o penúltimo de B e assim por diante. */
         Scanner scan = new Scanner(System.in);
         int vetA[] = new int[10], vetB[] = new int[vetA.length];
-        System.out.println("** Vetor B recebe Vetor A ao contrario **");
+        System.out.println("** Vetor B recebendo valores do Vetor A ao contrario **");
 
         for (int i = 0; i < vetA.length; i++) {
             System.out.print("Digite a posicao " + (i + 1) + " do vetor A: ");
@@ -25,4 +25,4 @@ public class Exercicio28{
             System.out.print(vetB[i] + " ");
         }
     }
-}
+}//revisado 06/11/2023 (equivalente ao dia 05/11/2023 pois faltou luz)

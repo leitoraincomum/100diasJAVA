@@ -27,12 +27,12 @@ public class Exercicio33{
             
             msg = "";
             if (primo){
-                msg = " - eh  primo";
+                msg = ": eh  primo";
             } else {
-                msg = " - nao eh primo";
+                msg = ": nao eh primo";
             }
             
             System.out.println(vetA[i] + msg);
         }
     }
-}
+}//revisado 06/11/2023 (equivalente ao dia 05/11/2023 pois faltou luz)

@@ -7,7 +7,7 @@ public class Exercicio30{
         Scanner scan = new Scanner(System.in);
         int vetA[] = new int[20], vetB[] = new int[vetA.length], vetC[] = new int[vetB.length];
         int posB = 0, posC = 0;
-        System.out.println("**Vetor A recebe elementos e passa para os vetores B (pares) e C (impares)**");
+        System.out.println("** Vetor A recebe elementos e passa para os vetores B (pares) e C (impares) **");
 
         for (int i = 0; i < vetA.length; i++) {
             System.out.print("Digite a posicao " + (i + 1) + " do vetor A: ");
@@ -26,12 +26,12 @@ public class Exercicio30{
             System.out.print(vetA[i] + " ");
         }
         System.out.println("\nElementos do vetor B: ");
-        for (int i = 0; i < vetB.length; i++){
+        for (int i = 0; i < posB; i++){
             System.out.print(vetB[i] + " ");
         }
         System.out.println("\nElementos do vetor C: ");
-        for (int i = 0; i < vetC.length; i++){
+        for (int i = 0; i < posC; i++){
             System.out.print(vetC[i] + " ");
         }
     }
-}
+}//revisado 06/11/2023 (equivalente ao dia 05/11/2023 pois faltou luz)

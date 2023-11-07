@@ -34,8 +34,8 @@ public class matrizes3 {
         
     }
     
-    System.out.println("Soma total = " +  soma);
-    System.out.println("Soma pares = " +  somaPares);
-    System.out.println("Soma impares = " +  somaImpares);
+    System.out.println("Soma total dos indices = " +  soma);
+    System.out.println("Soma dos pares = " +  somaPares);
+    System.out.println("Soma dos  impares = " +  somaImpares);
 }
-}
+}//Revisado 06/11/2023
