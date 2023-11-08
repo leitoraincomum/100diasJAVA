@@ -1,4 +1,3 @@
-package Antigos;
 import java.util.Random;
 
 /*2. Faça um programa que crie uma matriz 3x3x3 onde cada elemento da matriz seja igual a
@@ -10,23 +9,40 @@ valores da soma total, soma dos pares e soma dos ímpares.*/
 public class exercicio02 {
     public static void main(String[] args) {
 
-        int[][] numerosAleatorios = new int[10][10];
+        int[][][] numerosAleatorios = new int[3][3][3];
+        int [] somaLinhas = new int[3];
 
         Random numeroRandom = new Random();
+        int soma = 0, somaPares = 0, somaImpares = 0;
 
         for (int i = 0; i < numerosAleatorios.length; i++) {
+            somaLinhas[i] = 0;
             for (int j = 0; j < numerosAleatorios[i].length; j++) {
-                numerosAleatorios[i][j] = numeroRandom.nextInt(100);
+                for (int k = 0; k < numerosAleatorios[j].length; k++) {
+                numerosAleatorios[i][j][k] = numeroRandom.nextInt(100);
+                soma += numerosAleatorios[i][j][k];
+                somaLinhas[i] += numerosAleatorios[i][j][k];  
+                if (numerosAleatorios[i][j][k] % 2 == 0){
+                    somaPares += numerosAleatorios[i][j][k];
+                }  else {
+                    somaImpares += numerosAleatorios[i][j][k];
+                }
+                }
             }
         }
         
-        for (int i = 0; i<numerosAleatorios.length; i++){
-            for (int j = 0; j<numerosAleatorios[i].length; j++){
-                System.out.print(numerosAleatorios[i][j] + " ");
+        for (int i = 0; i < numerosAleatorios.length; i++){
+            for (int j = 0; j < numerosAleatorios[i].length; j++){
+                for (int k = 0; k < numerosAleatorios[j].length; k++) {
+                System.out.print(numerosAleatorios[i][j][k] + " ");
+                }
             }
-            System.out.println();
+            System.out.println(" | Soma da linha: " + somaLinhas[i]);
         }
-        
+        System.out.println("\nA soma de todos os numeros da matriz eh " + soma +
+        "\nSoma dos Pares: "+ somaPares + 
+        "\nSoma dos Impares: " + somaImpares);
+        /*
         int maiorL5 = 0;
         int menorL5 = 101;
         int linha5 = 5;
@@ -55,7 +71,7 @@ public class exercicio02 {
         }
         
         System.out.println("Maior valor da coluna 7 = " + maiorC7);
-        System.out.println("Menor valor da coluna 7 = " + menorC7);
+        System.out.println("Menor valor da coluna 7 = " + menorC7);*/
     }
 
-}
+}//revisado 07/11/2023

@@ -104,9 +104,11 @@ início: 20/10/2023 | fim previsto: 27/01/2024
 
 ###### Dia 19
 - Revisão da correção dos exercícios da aula 20 do curso [JAVA básico](https://loiane.training/curso/java-basico).
-- Tema visto: Início da revisão dos exercícios de fixação de conceitos vistos até o exercício 10.
+- Tema visto: Início da revisão dos exercícios de fixação de conceitos vistos e reorganização das pastas pois exercícios resolvidos não condizem com enunciado.
 
 ###### Dia 20
+- Revisão da correção dos exercícios da aula 20 do curso [JAVA básico](https://loiane.training/curso/java-basico).
+- Tema visto: Continuação da revisão dos exercícios de fixação de conceitos vistos.
 
 🏆 Resumo dos dias 11 a 20: 
 </details>
