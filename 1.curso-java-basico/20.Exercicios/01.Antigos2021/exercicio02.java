@@ -1,3 +1,4 @@
+package Antigos;
 import java.util.Random;
 
 /*2. Faça um programa que crie uma matriz 3x3x3 onde cada elemento da matriz seja igual a

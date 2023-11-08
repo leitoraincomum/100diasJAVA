@@ -1,3 +1,4 @@
+package Antigos;
 import java.util.Random;
 
 /*```1. Faça um programa que crie uma matriz de inteiros de 5 linhas por 10 colunas. Leia os

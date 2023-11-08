@@ -1,3 +1,4 @@
+package Antigos;
 import java.util.Scanner;
 /**3. Faça um programa que leia três vetores independentes compostos por 5 números que são
 fornecidos pelo usuário. Crie uma matriz que reuna estes três vetores em uma única

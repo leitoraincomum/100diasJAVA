@@ -1,4 +1,4 @@
-package com.loiane.cursojava.aula20.labs;
+package Antigos;
 
 import java.util.Scanner;
 /**6. Crie uma rotina que converta a matriz multi-dimensional de compromissos do programa

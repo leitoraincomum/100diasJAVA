@@ -103,6 +103,8 @@ início: 20/10/2023 | fim previsto: 27/01/2024
 - Tema visto: Matrizes (Arrays Multidimensionais).
 
 ###### Dia 19
+- Revisão da correção dos exercícios da aula 20 do curso [JAVA básico](https://loiane.training/curso/java-basico).
+- Tema visto: Início da revisão dos exercícios de fixação de conceitos vistos até o exercício 10.
 
 ###### Dia 20
 
