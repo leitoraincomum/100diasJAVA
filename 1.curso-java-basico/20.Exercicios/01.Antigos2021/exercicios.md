@@ -18,10 +18,7 @@ Cada dia do mês deve conter 24 horas, onde para cada uma destas 24 horas podemo
 5. Modifique o programa anterior de maneira a guardar os compromissos de todo o ano, organizados por mês, dia e hora (só 8 horas por dia).
 ```
 ```
-6. Crie uma rotina que converta a matriz multi-dimensional de compromissos do programa anterior em uma matriz uni-dimensional.
-```
-```
-7. Faça um programa para jogar o jogo da velha. O programa deve permitir que dois jogadores façam uma partida do jogo da velha, usando o computador para ver o tabuleiro. Cada jogador vai alternadamente informando a posição onde deseja colocar a sua peça (‘O’ ou ‘X’). O programa deve impedir jogadas inválidas e determinar automaticamente quando o jogo terminou e quem foi o vencedor (jogador1 ou jogador2). A cada nova jogada, o programa deve atualizar a situação do tabuleiro na tela.
+6. Faça um programa para jogar o jogo da velha. O programa deve permitir que dois jogadores façam uma partida do jogo da velha, usando o computador para ver o tabuleiro. Cada jogador vai alternadamente informando a posição onde deseja colocar a sua peça (‘O’ ou ‘X’). O programa deve impedir jogadas inválidas e determinar automaticamente quando o jogo terminou e quem foi o vencedor (jogador1 ou jogador2). A cada nova jogada, o programa deve atualizar a situação do tabuleiro na tela.
 ```
 
 - [Fonte - Prof. Fernando Santos Osório](http://osorio.wait4.org/oldsite/prog1/prog1-a12.pdf)

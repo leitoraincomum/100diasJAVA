@@ -116,9 +116,10 @@ início: 20/10/2023 | fim previsto: 27/01/2024
 
 <summary>Dias 21 a 30</summary>
 
-###### Dia 20
 
 ###### Dia 21
+- Revisão da correção dos exercícios da aula 20 do curso [JAVA básico](https://loiane.training/curso/java-basico).
+- Tema visto: Término da revisão dos exercícios de fixação de conceitos vistos da aula 20. Loop "for each". Debug Netbeans e Eclipse. Debug VS Code.
 
 ###### Dia 22
 
