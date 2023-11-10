@@ -118,10 +118,12 @@ início: 20/10/2023 | fim previsto: 27/01/2024
 
 
 ###### Dia 21
-- Revisão da correção dos exercícios da aula 20 do curso [JAVA básico](https://loiane.training/curso/java-basico).
-- Tema visto: Término da revisão dos exercícios de fixação de conceitos vistos da aula 20. Loop "for each". Debug Netbeans e Eclipse. Debug VS Code.
+- Revisão da correção dos exercícios da aula 20 e aulas 21, 22 e 23 do curso [JAVA básico](https://loiane.training/curso/java-basico).
+- Temas vistos: Término da revisão dos exercícios de fixação de conceitos vistos da aula 20. Loop "for each". Debug Netbeans e Eclipse. Debug VS Code.
 
 ###### Dia 22
+- Aula 24 do curso [JAVA básico](https://loiane.training/curso/java-basico).
+- Tema visto: Orientação a Objetos: Classes e atributos. Estruturação para resolução dos exercícios da aula 24.
 
 ###### Dia 23
 
