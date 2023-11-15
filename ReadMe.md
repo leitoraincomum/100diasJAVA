@@ -110,7 +110,7 @@ início: 20/10/2023 | fim previsto: 27/01/2024
 - Revisão da correção dos exercícios da aula 20 do curso [JAVA básico](https://loiane.training/curso/java-basico).
 - Tema visto: Continuação da revisão dos exercícios de fixação de conceitos vistos.
 
-🏆 Resumo dos dias 11 a 20: 
+🏆 Resumo dos dias 11 a 20: [dev.to](https://dev.to/leitoraincomum/100-dias-de-java-dias-11-a-20-4g8c)
 </details>
 <details>
 
@@ -126,6 +126,8 @@ início: 20/10/2023 | fim previsto: 27/01/2024
 - Tema visto: Orientação a Objetos: Classes e atributos. Estruturação para resolução dos exercícios da aula 24.
 
 ###### Dia 23
+- Exercícios da aula 24 do curso [JAVA básico](https://loiane.training/curso/java-basico).
+- Tema visto: Resolução dos exercícios da aula 24.
 
 ###### Dia 24
 
