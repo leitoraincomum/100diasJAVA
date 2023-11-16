@@ -5,6 +5,7 @@ public class Lampada {
     String cor;
     String tipoLuz;
     int garantiaMeses;
+    //criar vetor para ajuste de quantidade depois
     String[] tipos;
     boolean tipoAbajur;
 }

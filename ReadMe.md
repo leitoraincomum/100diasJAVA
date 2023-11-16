@@ -134,6 +134,8 @@ início: 20/10/2023 | fim previsto: 27/01/2024
 - Tema visto: Resolução dos exercícios da aula 24.
 
 ###### Dia 25
+- Término dos exercícios da aula 24 e aula 25 do curso [JAVA básico](https://loiane.training/curso/java-basico).
+- Tema visto: Resolução dos exercícios da aula 24. Métodos simples, com retorno e com parâmetros.
 
 ###### Dia 26
 
