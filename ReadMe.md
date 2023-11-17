@@ -126,18 +126,20 @@ início: 20/10/2023 | fim previsto: 27/01/2024
 - Tema visto: Orientação a Objetos: Classes e atributos. Estruturação para resolução dos exercícios da aula 24.
 
 ###### Dia 23
-- Exercícios da aula 24 do curso [JAVA básico](https://loiane.training/curso/java-basico).
+- Resolução dos exercícios da aula 24 do curso [JAVA básico](https://loiane.training/curso/java-basico).
 - Tema visto: Resolução dos exercícios da aula 24.
 
 ###### Dia 24
-- Exercícios da aula 24 do curso [JAVA básico](https://loiane.training/curso/java-basico).
+- Resolução dos exercícios da aula 24 do curso [JAVA básico](https://loiane.training/curso/java-basico).
 - Tema visto: Resolução dos exercícios da aula 24.
 
 ###### Dia 25
-- Término dos exercícios da aula 24 e aula 25 do curso [JAVA básico](https://loiane.training/curso/java-basico).
+- Término da resolução dos dos exercícios da aula 24 do curso [JAVA básico](https://loiane.training/curso/java-basico).
 - Tema visto: Resolução dos exercícios da aula 24. Métodos simples, com retorno e com parâmetros.
 
 ###### Dia 26
+- Resolução dos exercícios das aulas 25 a 27 do curso [JAVA básico](https://loiane.training/curso/java-basico).
+- Tema visto: Resolução dos exercícios das aulas 25 a 27.
 
 ###### Dia 27
 
