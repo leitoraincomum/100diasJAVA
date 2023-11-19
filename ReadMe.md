@@ -142,8 +142,12 @@ início: 20/10/2023 | fim previsto: 27/01/2024
 - Tema visto: Resolução dos exercícios das aulas 25 a 27.
 
 ###### Dia 27
+- Resolução dos exercícios das aulas 25 a 27 do curso [JAVA básico](https://loiane.training/curso/java-basico).
+- Tema visto: Resolução dos exercícios das aulas 25 a 27.
 
 ###### Dia 28
+- Término da resolução dos exercícios das aulas 25 a 27 do curso [JAVA básico](https://loiane.training/curso/java-basico).
+- Tema visto: Término da resolução dos exercícios das aulas 25 a 27.
 
 ###### Dia 29
 

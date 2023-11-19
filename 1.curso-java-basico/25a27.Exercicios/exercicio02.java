@@ -21,7 +21,7 @@ public class exercicio02 {
            System.out.println("Saque efetuado com sucesso!"); 
            conta.consultarSaldo();
         } else {
-            System.out.println("Não foi possível realizar saque. Saldo insuficiente!"); 
+            System.out.println("Nao foi possivel realizar saque. Saldo insuficiente!"); 
         }
         
         saqueEfetuado = conta.realizarSaque(500);
@@ -30,25 +30,25 @@ public class exercicio02 {
            System.out.println("Saque efetuado com sucesso!"); 
            conta.consultarSaldo();
         } else {
-            System.out.println("Não foi possível realizar saque. Saldo insuficiente!"); 
+            System.out.println("Nao foi possivel realizar saque. Saldo insuficiente!"); 
         }
         
-        System.out.println("\n** Depósito de 500 reais **"); 
+        System.out.println("\n** Deposito de 500 reais **"); 
         conta.depositar(500);
         conta.consultarSaldo();
         
         if (conta.verificarUsoChequeEspecial()){
-            System.out.println("Está usando cheque especial!"); 
+            System.out.println("Esta usando cheque especial!"); 
         } else {
-            System.out.println("Não está usando cheque especial!"); 
+            System.out.println("Nao esta usando cheque especial!"); 
         }
         
         conta.realizarSaque(600);
         conta.consultarSaldo();
         if (conta.verificarUsoChequeEspecial()){
-            System.out.println("Está usando cheque especial!"); 
+            System.out.println("Esta usando cheque especial!"); 
         } else {
-            System.out.println("Não está usando cheque especial!"); 
+            System.out.println("Nao esta usando cheque especial!"); 
         }
     }
 }//feito 17/11/2023

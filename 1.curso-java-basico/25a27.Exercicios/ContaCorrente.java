@@ -24,8 +24,7 @@ public class ContaCorrente {
         }    
     }//realizarSaque
     
-    void depositar(double valorDepositado){
-        
+    void depositar(double valorDepositado){       
         saldo += valorDepositado;
     }//depositar
     
