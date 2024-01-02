@@ -150,20 +150,29 @@ início: 20/10/2023 | fim previsto: 27/01/2024
 - Tema visto: Término da resolução dos exercícios das aulas 25 a 27.
 
 ###### Dia 29
+- Aula 28 do curso [JAVA básico](https://loiane.training/curso/java-basico).
+- Tema visto: Pacotes e import
 
 ###### Dia 30
+- Aula 29 do curso [JAVA básico](https://loiane.training/curso/java-basico).
+- Tema visto: Construtores
 
-🏆 Resumo dos dias 21 a 30: 
+🏆 Resumo dos dias 21 a 30: [dev.to](https://dev.to/leitoraincomum/100-dias-de-java-dias-21-a-30-41d6)
 </details>
 <details>
 
 <summary>Dias 31 a 40</summary>
 
 ###### Dia 31
+- Revisão das aulas 28 e 29. Aula 30 do curso [JAVA básico](https://loiane.training/curso/java-basico).
+- Temas vistos: Pacotes, import e construtores, palavra chave this.
 
 ###### Dia 32
+- Aulas 31 e 32 do curso [JAVA básico](https://loiane.training/curso/java-basico).
+- Temas vistos: Modificadores de acesso: default, private e public. Métodos getters e setters (encapsulamento).
 
 ###### Dia 33
+
 
 ###### Dia 34
 
